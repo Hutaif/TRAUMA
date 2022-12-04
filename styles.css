@@ -1,0 +1,20 @@
+* {-webkit-touch-callout: none; -webkit-user-select: none; }
+
+
+html { -webkit-text-size-adjust: none;}
+
+body {font-family: Helvetica; font-size: 13px}
+div.page-title {text-align: center}
+
+ul.top-level {list-style-type: square; margin-left:-25px; }
+ul.second-level {list-style-type: circle; margin-left:-25px; }
+div.second-level {margin-left:20px; }
+ul.third-level {list-style-type: disc; margin-left:-25px;}
+div.third-level {margin-left:20px;}
+ol li {margin-left: -25px;}
+
+div.image {margin-top: 12px;}
+div.image span {display:block; font-style: italic; margin-left: -5px;}
+
+div.right {}
+div.left {float: left; margin-right: 10px}
