@@ -1,0 +1,2286 @@
+Manifest-Version: 1.0
+Created-By: ApkSigner
+
+Name: res/drawable-xhdpi/abs__spinner_ab_pressed_holo_light.9.png
+SHA1-Digest: 4rR+hHrVmwD0ebxx4qTQOBji+IU=
+
+Name: assets/ContentBundle/humerusp.png
+SHA1-Digest: bUKoDJhBKzrCxk8LYr7f9+klkWw=
+
+Name: assets/ContentBundle/2-Pilon-Pilon-Classify.html
+SHA1-Digest: TiToNGyHtgdvDDKtsWrP18yJhbg=
+
+Name: assets/ContentBundle/2-Calcaneus-Calcaneus-Treat.html
+SHA1-Digest: kyZKeuFFiT4FjmYvk0FQaVPT7Aw=
+
+Name: assets/ContentBundle/1-Hip-HipDisloc-Treat.html
+SHA1-Digest: OnBSrEkFMhPZyL068tEdDxdenlc=
+
+Name: assets/ContentBundle/1-Acromioclavicular-ACDisloc-Image.html
+SHA1-Digest: J7mvyvgW0tpwaLf1yxVL18/OQbQ=
+
+Name: res/drawable-mdpi/abs__spinner_48_inner_holo.png
+SHA1-Digest: AWi/SDloL+5PuZb4VRcKdoFM0EE=
+
+Name: assets/ContentBundle/2-Humerus, diaphysis-Humerus-Image.html
+SHA1-Digest: lvdXigPaXouBk7RVTpWplqkpKvw=
+
+Name: assets/ContentBundle/acetab2.png
+SHA1-Digest: aKdhrsAUpHAscUs36yK4aIKk6IA=
+
+Name: res/drawable-hdpi/abs__spinner_48_inner_holo.png
+SHA1-Digest: zDPbY4FAXDney3q+4SrIvkM7H/g=
+
+Name: assets/ContentBundle/2-Carpus-Carpus-Classify.html
+SHA1-Digest: ftqam/E7Q0u4gCc3c4ydZRC94xs=
+
+Name: assets/ContentBundle/2-Navicular-Navicular-Classify.html
+SHA1-Digest: Wb0J+EYWe8c6FDZ3uNUTiSCGlBc=
+
+Name: assets/ContentBundle/2-Tibia, distal (pilon)-Pilon-Treat.html
+SHA1-Digest: 7yjwKQmi7Rrr1L93PmMJwPka8Sc=
+
+Name: assets/ContentBundle/2-Femur, diaphysis-FemurShaft-Treat.html
+SHA1-Digest: R5T5CabLJp6nsA56TO2cCKFL8UU=
+
+Name: assets/ContentBundle/2-Talus-Talus-Image.html
+SHA1-Digest: 17RnHqMk45n86RMaSWGWIPOGhzo=
+
+Name: res/layout-v14/sherlock_spinner_item.xml
+SHA1-Digest: YVZYIPxVZwl1XoTwSm31cvfDWwU=
+
+Name: assets/ContentBundle/2-Femur, trochanteric-Troch-Classify.html
+SHA1-Digest: Oi3K/cKC5aplf7bSsMJMkEeCRKM=
+
+Name: assets/ContentBundle/disi.png
+SHA1-Digest: ZoGHmU4i7aqgKp35aoiNNGSJGDc=
+
+Name: assets/ContentBundle/ankle1.png
+SHA1-Digest: 4oaEjYTiqIhung4v7prDrhbrjZI=
+
+Name: assets/ContentBundle/2-Metacarpal-Hand-Treat.html
+SHA1-Digest: nylyLMynS24AN9QbIBzb19pOem0=
+
+Name: res/drawable-xhdpi/abs__ab_bottom_solid_dark_holo.9.png
+SHA1-Digest: zBTk9VwPeMgIgu4tbm1ueFAvr+k=
+
+Name: res/drawable-mdpi/progress_primary_darkblue.9.png
+SHA1-Digest: EBVVYYZKcpBn1RDxvuC98ceIL4o=
+
+Name: res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_light.9.png
+SHA1-Digest: 7bhYhK71XiD+RwIyvaRskqHQ9D4=
+
+Name: res/layout-normal-land/app_start.xml
+SHA1-Digest: 2vHGUIVIOw94sSBnYA7r601FTTk=
+
+Name: assets/ContentBundle/2-Radius, head-RadialHead-Facts.html
+SHA1-Digest: HBa9Nmof1XNVQapT5L0GJneimmM=
+
+Name: res/layout/webview_pager.xml
+SHA1-Digest: 5Pv03bGMn5MwSmQ/8dmFoj1d+/c=
+
+Name: res/drawable-mdpi/cab_background_top_darkblue.9.png
+SHA1-Digest: 4z1u/IDydsjGI0AQ9CFM1bb3Vs4=
+
+Name: res/drawable-hdpi/abs__progress_secondary_holo_light.9.png
+SHA1-Digest: 7jwN3UdNV7sRgNjSozjqeBab1M8=
+
+Name: res/drawable/abs__textfield_searchview_right_holo_light.xml
+SHA1-Digest: vaPSJBjQc80ZGZPU0m1aVrwnmQo=
+
+Name: res/drawable-mdpi/abs__ic_go.png
+SHA1-Digest: kNve7ufi2BNs5M7o6wfM+ULbk/E=
+
+Name: assets/ContentBundle/1-Elbow-ElbowDisloc-Image.html
+SHA1-Digest: 0indTEeFbP29pmyb6jiBlXEOphY=
+
+Name: assets/ContentBundle/2-Tibia, plateau-TibPlat-Classify.html
+SHA1-Digest: /wRnpQi2Jk3KLp4kWTOC2cHyDzU=
+
+Name: assets/ContentBundle/2-Olecranon-Olecranon-Image.html
+SHA1-Digest: EyPEXhp8bMcTjlf8mcMJTXp4eeQ=
+
+Name: res/drawable-xhdpi/abs__cab_background_top_holo_dark.9.png
+SHA1-Digest: eeVecDE50vv1K9dXgo5Xu/ICv/k=
+
+Name: assets/ContentBundle/2-Tibia, distal (pilon)-Pilon-Facts.html
+SHA1-Digest: ehbSE0rZ6UBAP9mRI70GyXGFsrQ=
+
+Name: assets/ContentBundle/2-Metacarpal-Hand-Image.html
+SHA1-Digest: jpFfishA1aRT1v2KxCV8X2C18BI=
+
+Name: res/drawable/abs__btn_cab_done_holo_dark.xml
+SHA1-Digest: SUFAI5GkvtNtFXjW/ZAHlbQLCKc=
+
+Name: assets/ContentBundle/2-Patella-Patella-Treat.html
+SHA1-Digest: Ky0G2T9Mxanck6YHbZjbsO+mzmg=
+
+Name: res/drawable-hdpi/abs__ab_stacked_transparent_light_holo.9.png
+SHA1-Digest: bS7Ss6M/uhtIfOU7aXXVHhX2Poc=
+
+Name: assets/ContentBundle/2-Femur, distal-DistFemur-Classify.html
+SHA1-Digest: kxrMsoY2fBhF6SADCrIHwOF7pNE=
+
+Name: res/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png
+SHA1-Digest: 1Z0zi0jac2jkYoKOoVr8ri3BDyg=
+
+Name: res/drawable-hdpi/spinner_ab_disabled_darkblue.9.png
+SHA1-Digest: 0uElVH8bZAY6+SQe7OVv3a5hdhc=
+
+Name: res/drawable-mdpi/abs__dialog_full_holo_dark.9.png
+SHA1-Digest: 3KCAL2gOTvb1XnoWeEkg5JF/Gf0=
+
+Name: assets/ContentBundle/2-Femur, neck-FemurNeck-Image.html
+SHA1-Digest: ytC6AgBqgp6NhIzcbvyIsayt98Y=
+
+Name: res/drawable-xhdpi/abs__spinner_ab_pressed_holo_dark.9.png
+SHA1-Digest: Se98PKs90cp6su2Bw1fWOp/kCdk=
+
+Name: assets/ContentBundle/handap.png
+SHA1-Digest: 279AWE1EyUh/JQIWSDyHkU7eO/Y=
+
+Name: res/drawable-xhdpi/abs__ab_stacked_transparent_dark_holo.9.png
+SHA1-Digest: wrh0g/eAYbHVMW1SRt3aKHdk8p4=
+
+Name: res/drawable-mdpi/background_bones.9.png
+SHA1-Digest: 5IByVYd6BmIhykO6U1WFgBLef4Y=
+
+Name: res/drawable-xhdpi/abs__list_activated_holo.9.png
+SHA1-Digest: mnKcBxCAwD79+LDCs2GZ5ihR4dA=
+
+Name: assets/ContentBundle/1-Tibiofibular, proximal-PTFJDisloc-Facts.h
+ tml
+SHA1-Digest: TwljC6zw1asVxFVrxY7aMCxK5s4=
+
+Name: res/drawable-xhdpi/abs__ic_search_api_holo_light.png
+SHA1-Digest: IFyWqXZDtH8JzzXL1LVLhIiVasQ=
+
+Name: res/drawable-land-ldpi/background_bones.9.png
+SHA1-Digest: /ES60SNWEmhOuG9iYBk9zaYo1pc=
+
+Name: res/drawable-mdpi/abs__cab_background_top_holo_dark.9.png
+SHA1-Digest: qHOlIBCTp7yOL2yem2ErbJbCUP8=
+
+Name: res/drawable-hdpi/abs__list_focused_holo.9.png
+SHA1-Digest: WWbGNxwqfE11SDbuIT+Sd9XnxCQ=
+
+Name: res/drawable-mdpi/abs__list_divider_holo_light.9.png
+SHA1-Digest: PoxeeFE1gxgKYYjKMfN1ri2qqEo=
+
+Name: res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.pn
+ g
+SHA1-Digest: q31S80yh9uuXmGO1Wglkfk2Z3Lo=
+
+Name: assets/ContentBundle/patella.png
+SHA1-Digest: JdIHpk8iwLaGQuvXU3Oy29jTir8=
+
+Name: res/drawable-mdpi/tab_unselected_pressed_darkblue.9.png
+SHA1-Digest: e4vLjeC9WaL2rw3Vek2xgQKUmQo=
+
+Name: assets/ContentBundle/2-Cuboid-Cuboid-Classify.html
+SHA1-Digest: pM+uSnRgaOm43WHHdcOh5aWW4Oo=
+
+Name: assets/ContentBundle/1-Carpometacarpal (CMC)-CMCDisloc-Treat.htm
+ l
+SHA1-Digest: YgSLLKpYCzdt5GCut0XN4DCMoqk=
+
+Name: res/drawable-hdpi/ab_bottom_solid_darkblue.9.png
+SHA1-Digest: N7a0CpAss67lxtFtM0cXkqSgrQU=
+
+Name: res/drawable-hdpi/abs__list_selector_disabled_holo_dark.9.png
+SHA1-Digest: H6QyACqlrLL5v6tTVSXDgysUOqU=
+
+Name: res/drawable-xhdpi/abs__dialog_full_holo_light.9.png
+SHA1-Digest: 1e4qpbj7XVe7XO2QwHplwJI+qAw=
+
+Name: res/drawable-mdpi/spinner_ab_pressed_darkblue.9.png
+SHA1-Digest: Fwl6ZVhBBnaiow/dz16OqIrYGuI=
+
+Name: assets/ContentBundle/coronoid2.png
+SHA1-Digest: 7smJiUaReYDPpCi9KHY9QnLsYCo=
+
+Name: res/drawable-hdpi/ab_solid_darkblue.9.png
+SHA1-Digest: wkcNSP4LEFjuzD5QZVXD+uynbxg=
+
+Name: res/drawable-xhdpi/abs__ic_menu_share_holo_light.png
+SHA1-Digest: ktod2zHisp5F/9ClTQMEo0Nu5z4=
+
+Name: assets/ContentBundle/clavicle1.png
+SHA1-Digest: BGZrFQsVqhH4FD/p6TpHktezy84=
+
+Name: res/drawable/abs__spinner_ab_holo_light.xml
+SHA1-Digest: fLw0EMtnhHjayD6q4imTGcCnHCs=
+
+Name: res/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png
+SHA1-Digest: eD5ShI9FtxvEavn1ASlfoeDYyQU=
+
+Name: res/drawable-mdpi/abs__ab_solid_shadow_holo.9.png
+SHA1-Digest: ac0QFVQasjwqX0dfvdz6H0hbUfE=
+
+Name: res/drawable-xhdpi/abs__spinner_ab_default_holo_light.9.png
+SHA1-Digest: yyJNlCg/eVKgXZfVtfR9cNu7sfg=
+
+Name: res/layout/dual_pane.xml
+SHA1-Digest: KpTkNrZDUIlRAkYoKJ7LrxTQ4Lo=
+
+Name: assets/ContentBundle/2-Cuboid-Cuboid-Facts.html
+SHA1-Digest: ptRlDPUW3bj0hyVGoYgRjHIeJ4s=
+
+Name: assets/ContentBundle/1-Subtalar-SubtalarDisloc-Facts.html
+SHA1-Digest: iV4ofGORCsAZOUoZFGqHt6TAUMw=
+
+Name: res/drawable-xhdpi/abs__textfield_search_default_holo_light.9.pn
+ g
+SHA1-Digest: B3u/NUESQeVChG8EEgyGVuMiHH0=
+
+Name: assets/ContentBundle/handlateral.png
+SHA1-Digest: wbQYxE+Rxkx5ymK4KSUpblkauKs=
+
+Name: res/drawable-hdpi/abs__list_pressed_holo_dark.9.png
+SHA1-Digest: AVyWywHVmqUlb40Lr0kWmnyG6x4=
+
+Name: res/drawable/abs__search_dropdown_light.xml
+SHA1-Digest: HqoPZlllFWPjcWfdGm4HMQwClEE=
+
+Name: res/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png
+SHA1-Digest: cKGQg8jgT0IkOi1RPo5Y+TSnQb4=
+
+Name: res/drawable-hdpi/abs__dialog_full_holo_dark.9.png
+SHA1-Digest: j/CZL/FJgfVhrBxR2aOwJ9octLU=
+
+Name: res/drawable-hdpi/btn_cab_done_focused_darkblue.9.png
+SHA1-Digest: so0+WJWfLVeJtcigHjMSLMb0oYs=
+
+Name: res/drawable-xhdpi/abs__progress_primary_holo_light.9.png
+SHA1-Digest: WH0mnOkpZltk+ZCf+fs+1c2OS68=
+
+Name: res/drawable-xhdpi/abs__ab_solid_light_holo.9.png
+SHA1-Digest: BuJ7qLxJ3yylQEGM/1Gcnz9bnDw=
+
+Name: res/drawable/abs__activated_background_holo_dark.xml
+SHA1-Digest: 8FFImWuQtXEFayPbD656ZGS/bxw=
+
+Name: res/drawable/copywrite_translucent_rounded_edges.xml
+SHA1-Digest: N85JeEP7d2/+9LnZetAC8i0KAEk=
+
+Name: assets/ContentBundle/elbowap.png
+SHA1-Digest: XUJ0u//n3ZBhGr1ze3P8mYwUP18=
+
+Name: res/drawable/abs__list_selector_background_transition_holo_dark.
+ xml
+SHA1-Digest: HkWTnAYFh577jfTWNkAfx0UaGOs=
+
+Name: assets/ContentBundle/2-Humerus, distal-DistHumerus-Classify.html
+SHA1-Digest: wlYG7BTv8ytuSHmU5zLWG/f98tQ=
+
+Name: res/drawable-hdpi/abs__ab_stacked_solid_light_holo.9.png
+SHA1-Digest: g+r7FkwU8IObn5YShy0gWd8kQqs=
+
+Name: res/layout/abs__action_bar_tab.xml
+SHA1-Digest: kXfIgXdFbJ+/OTHRFVMukuJZR1Q=
+
+Name: res/drawable-mdpi/spinner_ab_default_darkblue.9.png
+SHA1-Digest: J1rjIF6IWIckql65FLKbEGfgMSQ=
+
+Name: assets/ContentBundle/1-Carpal-CarpalDisloc-Image.html
+SHA1-Digest: h+u0WgxYzqTKgyy3tE+xgzKFflc=
+
+Name: assets/ContentBundle/talus.png
+SHA1-Digest: 3iVuFQ+mmjsOXqqlnJizm7EaGhA=
+
+Name: res/drawable-hdpi/abs__cab_background_bottom_holo_dark.9.png
+SHA1-Digest: xXf8LeJnhCd2O9P9F87lxA4jWyM=
+
+Name: res/drawable-mdpi/abs__tab_selected_holo.9.png
+SHA1-Digest: 8sgxuVxhFo6eSxCIpjtdalG/XP8=
+
+Name: assets/ContentBundle/0-Basic Principles-Princip.html
+SHA1-Digest: mNxOIfqQNODYwmzA/zdacquOQ6U=
+
+Name: res/drawable-xhdpi/btn_cab_done_pressed_darkblue.9.png
+SHA1-Digest: hG7ef+EmJAJCBnkemCJ4OwE9dh0=
+
+Name: assets/ContentBundle/1-Shoulder-ShoulderDisloc-Classify.html
+SHA1-Digest: KZlPuBqyNmiN8Djzzkxc9Cj0JkM=
+
+Name: res/drawable-hdpi/abs__ic_ab_back_holo_light.png
+SHA1-Digest: 2190+21f7tmW4QHksA5MDH2ccTI=
+
+Name: res/drawable/abs__search_dropdown_dark.xml
+SHA1-Digest: 4iujdSpf2N+1B00p9qH57alZutU=
+
+Name: res/drawable-xhdpi/abs__spinner_ab_disabled_holo_light.9.png
+SHA1-Digest: jD9IiETA3GB5TReVJl1DgeY6pT8=
+
+Name: res/drawable-hdpi/abs__textfield_search_selected_holo_dark.9.png
+SHA1-Digest: tWM+3dapvHkg+XJsCoqxCKhfcP0=
+
+Name: assets/ContentBundle/2-Radius_ulna, diaphysis-RadiusUlna-Facts.h
+ tml
+SHA1-Digest: 83BJFT+GkIdGL6aUKMe8YMns8lk=
+
+Name: res/drawable-mdpi/cab_background_bottom_darkblue.9.png
+SHA1-Digest: SnG6zPBWiKJAod09T54K+DPAYvg=
+
+Name: res/drawable/menulist_sectionheader_background.xml
+SHA1-Digest: vNZxfR/pGgVkeIdI/r18tRh1E78=
+
+Name: assets/ContentBundle/2-Femur, distal-DistFemur-Treat.html
+SHA1-Digest: js0ANpDP42vUJiPraJ0tY+qjvuw=
+
+Name: res/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png
+SHA1-Digest: 3NDFAI7pBRqjniZiLX9Lx9e8DZw=
+
+Name: res/drawable-mdpi/abs__textfield_search_selected_holo_dark.9.png
+SHA1-Digest: ZQ8sXjtBSFVuUrvpILUvUmO3qx8=
+
+Name: res/layout/abs__activity_chooser_view_list_item.xml
+SHA1-Digest: Qif05IAIQCXy7cD7ARY9Zr2w4KI=
+
+Name: res/drawable-hdpi/abs__textfield_search_right_default_holo_dark.
+ 9.png
+SHA1-Digest: sPAjQ1VlXhSwrT4aW1ghmimxciU=
+
+Name: res/drawable-xhdpi/spinner_ab_default_darkblue.9.png
+SHA1-Digest: 3MeBXlfQAjpa4kdV7TuOZzlksdQ=
+
+Name: assets/ContentBundle/2-Phalanx, foot-Forefoot-Facts.html
+SHA1-Digest: jaMMaKvjs+qiSnKeFpTw1Z8Lv5c=
+
+Name: res/drawable-hdpi/abs__ab_bottom_transparent_dark_holo.9.png
+SHA1-Digest: fXDWMuV/2UJCMKk6MVwjYBFcVWY=
+
+Name: assets/ContentBundle/2-Tibia, plateau-TibPlat-Image.html
+SHA1-Digest: RbCYMluKYG89in/UxKpLPzpXTak=
+
+Name: res/drawable-xhdpi/abs__ic_voice_search.png
+SHA1-Digest: nU66i5kbGAPc4Me8xGu5YdCaewc=
+
+Name: assets/ContentBundle/1-Metatarsophalangeal (MTP)-Forefoot-Treat.
+ html
+SHA1-Digest: aiUJAerh7ZzIBTlFczg7TRcvvD0=
+
+Name: assets/ContentBundle/2-Navicular-Navicular-Image.html
+SHA1-Digest: n6gnd2pwLlw6kdFtiUY89QccyvM=
+
+Name: assets/ContentBundle/2-Humerus, proximal-ProxHumerus-Image.html
+SHA1-Digest: RBC+ol2YfP6UNeLdtsPY49X4dUw=
+
+Name: res/drawable-hdpi/abs__textfield_search_right_selected_holo_dark
+ .9.png
+SHA1-Digest: R1EZVQP24tOfKlzCjC8RxUbY2Ro=
+
+Name: res/drawable-xhdpi/list_focused_darkblue.9.png
+SHA1-Digest: F/EAuaNihkw32lURHiWHtdtCO6Y=
+
+Name: res/drawable-xhdpi/abs__ab_transparent_dark_holo.9.png
+SHA1-Digest: 4wBFyqxq6yJT8s+tLaUXTGtgDxs=
+
+Name: assets/ContentBundle/2-Femur, neck-FemurNeck-Treat.html
+SHA1-Digest: FDPmwiqYsHgxFKj4RofG9OPnjmE=
+
+Name: assets/ContentBundle/1-Midtarsal (Chopart)-MidtarsalDisloc-Image
+ .html
+SHA1-Digest: /qxQifKS0UDD8uB/9WqiYjvSNPg=
+
+Name: res/drawable-mdpi/list_focused_darkblue.9.png
+SHA1-Digest: kZHB9FTtYx3VHa5S8YRthdr9tC4=
+
+Name: assets/ContentBundle/2-Radius_ulna, diaphysis-RadiusUlna-Treat.h
+ tml
+SHA1-Digest: JRSRBNsYWPTk0+rD2Vn8z+1E0XU=
+
+Name: assets/ContentBundle/1-Elbow-ElbowDisloc-Classify.html
+SHA1-Digest: TBaVeR63Stpmpz6+DPmxeTTG60o=
+
+Name: res/drawable-mdpi/abs__ic_search.png
+SHA1-Digest: PC1F8nqODWQpI1dkYj+S1w8KJdc=
+
+Name: assets/ContentBundle/2-Femur, intertrochanteric-IT-Image.html
+SHA1-Digest: 8yKx0cz8+CGLpZoCzFLfMOjK2SI=
+
+Name: assets/ContentBundle/2-Femur, diaphysis-FemurShaft-Facts.html
+SHA1-Digest: Frtt59jEIB96cXNC47eYhrMxuuI=
+
+Name: res/drawable-mdpi/abs__ic_clear_search_api_disabled_holo_light.p
+ ng
+SHA1-Digest: wCxaEjecL1hHnkXFfguOJlH5fmc=
+
+Name: assets/ContentBundle/2-Femur, subtrochanteric-Subtroch-Image.htm
+ l
+SHA1-Digest: vzciVhpTRqyeUY3OpTXBeUixLTk=
+
+Name: assets/ContentBundle/2-Pilon-Pilon-Facts.html
+SHA1-Digest: ehbSE0rZ6UBAP9mRI70GyXGFsrQ=
+
+Name: res/drawable-xhdpi/progress_secondary_darkblue.9.png
+SHA1-Digest: PqFI8SqBfvbeWtDo2YHOpfS6f8Q=
+
+Name: assets/ContentBundle/1-Sternoclavicular-SCDisloc-Facts.html
+SHA1-Digest: N3bmn2UTUDPxvRWhiFus/qH8ohs=
+
+Name: assets/ContentBundle/pilon.png
+SHA1-Digest: AU+vUyrt73vgdwA5Vmgtm8sQtBQ=
+
+Name: assets/ContentBundle/shoulderap.png
+SHA1-Digest: 31yaKyAIbyN0N3wlBbO5QEMSW+8=
+
+Name: assets/ContentBundle/1-Metatarsophalangeal (MTP)-Forefoot-Classi
+ fy.html
+SHA1-Digest: 0nN4NlPEvQf26T56QtchySc3Rag=
+
+Name: res/drawable-mdpi/abs__ic_menu_share_holo_light.png
+SHA1-Digest: IlEK98Eg/sFPcHXFekaYSKoPIM0=
+
+Name: assets/ContentBundle/1-Acromioclavicular-ACDisloc-Treat.html
+SHA1-Digest: sk15aJ5VCgYhXAiyVjMYy5xwHgU=
+
+Name: res/drawable-hdpi/abs__list_divider_holo_light.9.png
+SHA1-Digest: PoxeeFE1gxgKYYjKMfN1ri2qqEo=
+
+Name: res/drawable/abs__item_background_holo_dark.xml
+SHA1-Digest: ejBw9JRergJdigZ0iJUMDxn3YNI=
+
+Name: assets/ContentBundle/sanders.png
+SHA1-Digest: dNqryoYe18441ErqtvqJZQuFJLM=
+
+Name: res/drawable-hdpi/abs__btn_cab_done_focused_holo_light.9.png
+SHA1-Digest: O7VzHYR+6JhnffuSbjNtgZFGN7Q=
+
+Name: res/drawable-hdpi/abs__spinner_48_outer_holo.png
+SHA1-Digest: jHV2sitpHE0pm5nNr6bbAzQmAJ8=
+
+Name: res/drawable-hdpi/progress_bg_darkblue.9.png
+SHA1-Digest: MmdQaTii1skRRuZ2pZXpeqP/kO8=
+
+Name: res/drawable-hdpi/abs__spinner_ab_default_holo_light.9.png
+SHA1-Digest: QzTUHUDBIXKqST0Qgr9lLSju9FM=
+
+Name: res/drawable-xhdpi/abs__spinner_ab_focused_holo_dark.9.png
+SHA1-Digest: VZzwLXiFL2J9463y8dx5mUq1viQ=
+
+Name: res/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png
+SHA1-Digest: 4CGjbdIIJM4LRVN+RxxarrcYIR8=
+
+Name: assets/ContentBundle/2-Radius, distal-DistRadius-Classify.html
+SHA1-Digest: 49vf3j4VHMbxR0iQroCzu8acoMk=
+
+Name: res/drawable-xhdpi/abs__btn_cab_done_focused_holo_dark.9.png
+SHA1-Digest: 9BYb3C30h24wu1WHOvyB6UC6iGw=
+
+Name: assets/ContentBundle/2-Radius, distal-DistRadius-Treat.html
+SHA1-Digest: HjdE9sSWa2nX8EWaiLuEWkNPCGg=
+
+Name: assets/ContentBundle/1-Metatarsophalangeal (MTP)-Forefoot-Image.
+ html
+SHA1-Digest: L+QmBwijR/xBczefGQ5V+mWhlp0=
+
+Name: res/drawable/dark_blue_transparent.xml
+SHA1-Digest: Swu9r9tbvQ0vtWMYaqzaAlEmEaM=
+
+Name: res/drawable-mdpi/abs__ic_ab_back_holo_dark.png
+SHA1-Digest: VzN10zMjoV+N+zP3SwwUmOBmUAs=
+
+Name: assets/ContentBundle/2-Cuboid-Cuboid-Image.html
+SHA1-Digest: zPBhKb21dpNafhEd6l9lwOhgpHc=
+
+Name: assets/ContentBundle/0-Common Acronyms-Acronyms.html
+SHA1-Digest: DI7XISB2h+vJTqynJ3jdu1OS2JM=
+
+Name: res/drawable-xhdpi/abs__spinner_ab_disabled_holo_dark.9.png
+SHA1-Digest: xCWHksi39bFSUhVr16h81kw+3kc=
+
+Name: assets/ContentBundle/hipap.png
+SHA1-Digest: BwhA4goh+ZOQaPSvGwv3oamim/E=
+
+Name: res/layout/sherlock_spinner_dropdown_item.xml
+SHA1-Digest: /HlGpI6Kg2rMH+9Ztk5jZNkfPBQ=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: mQydT13swP+2zgLaZoRaGP+YD/0=
+
+Name: res/drawable-xhdpi/abs__list_divider_holo_dark.9.png
+SHA1-Digest: 8+TP02NA3lGiMXaQ8fIb7yOyVIE=
+
+Name: res/drawable-xhdpi/abs__list_longpressed_holo.9.png
+SHA1-Digest: mnKcBxCAwD79+LDCs2GZ5ihR4dA=
+
+Name: res/drawable-mdpi/abs__ic_menu_share_holo_dark.png
+SHA1-Digest: dKBPvxvHnfDdTkNPCCyZ+j6OcpI=
+
+Name: res/drawable-mdpi/ab_bottom_solid_darkblue.9.png
+SHA1-Digest: eCak1yrIXcpwINK2cw3XfYdU5QE=
+
+Name: assets/ContentBundle/2-Femur, distal-DistFemur-Image.html
+SHA1-Digest: 7IyTm4mrdtlxJ3yaGv2E19gsXnY=
+
+Name: assets/ContentBundle/1-Carpal-CarpalDisloc-Facts.html
+SHA1-Digest: 0nZXYijEZ+sfbJhJkByZ1NaUb9c=
+
+Name: res/drawable-v11/abs__progress_medium_holo.xml
+SHA1-Digest: m0ZDSLk/11T9IZX4c9tRYPfVnrA=
+
+Name: assets/ContentBundle/taluslateral.png
+SHA1-Digest: wuyMf0yUdsGL7Se6h1uk5VqPGCc=
+
+Name: assets/ContentBundle/2-Phalanx, foot-Forefoot-Image.html
+SHA1-Digest: OunqAam4cCYodcvU9AwUl3PQcyo=
+
+Name: assets/ContentBundle/1-Hip-HipDisloc-Classify.html
+SHA1-Digest: lzsdguorpRJGq+SM7xJxLdVpfLY=
+
+Name: assets/ContentBundle/1-Ankle-Ankle-Facts.html
+SHA1-Digest: om5g0EegDr3O/cfLf2xlZSvoER0=
+
+Name: assets/ContentBundle/2-Forearm-RadiusUlna-Image.html
+SHA1-Digest: SmltcxJ1Tm61XkuP/8BZXF462Ak=
+
+Name: assets/ContentBundle/1-Hip-HipDisloc-Image.html
+SHA1-Digest: jKjWN60caMNdXhrNwl0i9kh/yek=
+
+Name: assets/ContentBundle/1-Tibiofibular, proximal-PTFJDisloc-Image.h
+ tml
+SHA1-Digest: RvcaWg+MTLIOmn+/BBQMhhwiflA=
+
+Name: res/layout/abs__screen_action_bar.xml
+SHA1-Digest: BfKArja8vPuqU3RvVfXFWUEMLi0=
+
+Name: assets/ContentBundle/acetab1.png
+SHA1-Digest: lSwJyrXlggTO+Q2NSg3cotFc7rk=
+
+Name: res/drawable-mdpi/btn_cab_done_default_darkblue.9.png
+SHA1-Digest: 03cjvoh+ji9kaqUKDcLWj3c/xMA=
+
+Name: res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_dark.9.png
+SHA1-Digest: UVLYomfoIs2Or1pU9qQW1rpNX6Q=
+
+Name: res/drawable-mdpi/abs__dialog_full_holo_light.9.png
+SHA1-Digest: gXa3mUWaT62P/lwsD0vBvtz9va4=
+
+Name: res/drawable/abs__list_selector_holo_dark.xml
+SHA1-Digest: CGINqH0+bgG4rp46/F14ZRFmhKg=
+
+Name: res/drawable-hdpi/abs__ic_search.png
+SHA1-Digest: PC1F8nqODWQpI1dkYj+S1w8KJdc=
+
+Name: assets/ContentBundle/2-Calcaneus-Calcaneus-Classify.html
+SHA1-Digest: ZQT3UdSjnjm5JfEzd89IhEpkJCw=
+
+Name: assets/ContentBundle/ContentBundle.plist
+SHA1-Digest: YDwYcotg3JyOD6BEWfkLw3QOf3U=
+
+Name: assets/ContentBundle/gpa.png
+SHA1-Digest: rBvJiFqOXykfUkMYvk1qb2jgk28=
+
+Name: assets/Roboto-Regular.ttf
+SHA1-Digest: oY3L+ZyNIyXC+/IqZOjMKKDPTTs=
+
+Name: res/layout-v14/sherlock_spinner_dropdown_item.xml
+SHA1-Digest: BLMRrb4YtjXngjqImSZJzLm7xVs=
+
+Name: assets/ContentBundle/wristap.png
+SHA1-Digest: XCiZxhHenLqOkHPb7557ZVzaldI=
+
+Name: assets/ContentBundle/2-Metatarsal-Forefoot-Image.html
+SHA1-Digest: G3U4qo17QBHLd3A0zxErzATUfTo=
+
+Name: assets/ContentBundle/hipxtable.png
+SHA1-Digest: d1GE/LxnFteDqCGxcB86XBCOc1Y=
+
+Name: res/drawable-hdpi/abs__textfield_search_selected_holo_light.9.pn
+ g
+SHA1-Digest: tWM+3dapvHkg+XJsCoqxCKhfcP0=
+
+Name: assets/ContentBundle/2-Coronoid-ElbowDisloc-Treat.html
+SHA1-Digest: YTJ8lDiq2TlU+x4vSSjWwl/SJ8c=
+
+Name: res/drawable-mdpi/abs__progress_secondary_holo_dark.9.png
+SHA1-Digest: Gmly5SVlR6fM5w0tsgda0qA5W+Q=
+
+Name: res/drawable-mdpi/abs__progress_secondary_holo_light.9.png
+SHA1-Digest: Gmly5SVlR6fM5w0tsgda0qA5W+Q=
+
+Name: assets/ContentBundle/2-Olecranon-Olecranon-Classify.html
+SHA1-Digest: 21aNgX5PtYHt79A5F3v29lc5MyU=
+
+Name: res/drawable-hdpi/abs__menu_dropdown_panel_holo_dark.9.png
+SHA1-Digest: XwHGfvmk8zAeWbMrqxefb5dumjU=
+
+Name: res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_dark.pn
+ g
+SHA1-Digest: 5t4DfVjrPREO9eze1ze3wKU7zgs=
+
+Name: assets/ContentBundle/2-Humerus, proximal-ProxHumerus-Classify.ht
+ ml
+SHA1-Digest: o+251FUUuX/1Kklw4gyBl9WrBxE=
+
+Name: res/drawable-hdpi/abs__ab_bottom_solid_dark_holo.9.png
+SHA1-Digest: cLS2FCoJG9FXWLrDfRPFRX/xznk=
+
+Name: res/drawable-hdpi/abs__ic_clear_normal.png
+SHA1-Digest: PCoZiLOS4J/56HawmRvUThZql9M=
+
+Name: res/drawable-hdpi/btn_cab_done_default_darkblue.9.png
+SHA1-Digest: cYqrP9zTb+xX6MZcBwTKmsnCOro=
+
+Name: res/drawable-xhdpi/abs__list_selector_disabled_holo_dark.9.png
+SHA1-Digest: DdbxkH04CKw8kZDBH8buX43Cz3A=
+
+Name: res/drawable-xhdpi/tab_unselected_pressed_darkblue.9.png
+SHA1-Digest: z6xcYQ5Rv5/bjR0Pwbcp9rSj9+I=
+
+Name: assets/ContentBundle/2-Metatarsal-Forefoot-Treat.html
+SHA1-Digest: aiUJAerh7ZzIBTlFczg7TRcvvD0=
+
+Name: assets/ContentBundle/3-Disclaimer-Terms.html
+SHA1-Digest: DcEF62KZNfN+SkD0N/SUFShhERI=
+
+Name: res/drawable-mdpi/abs__list_pressed_holo_dark.9.png
+SHA1-Digest: ughAWBlhb5fxIgHli8NgEiGGjGY=
+
+Name: assets/ContentBundle/2-Phalanx, hand-Hand-Facts.html
+SHA1-Digest: Di4G4qqYuupfqbgDR/0u6adLfCw=
+
+Name: assets/ContentBundle/2-Patella-Patella-Image.html
+SHA1-Digest: KiJX8klx9wN6HhBWI3XV9XX3K88=
+
+Name: assets/ContentBundle/2-Femur, subtrochanteric-Subtroch-Classify.
+ html
+SHA1-Digest: jDGtw/CFCyGzwKBkydH0S9WLpYc=
+
+Name: assets/ContentBundle/2-Radius, distal-DistRadius-Facts.html
+SHA1-Digest: KpAmjyQvl9j2LVr/JRXgJpnvl7U=
+
+Name: res/menu/spash.xml
+SHA1-Digest: pmNzeFACUnNFuue+TaS0+eslONw=
+
+Name: res/drawable-mdpi/btn_cab_done_focused_darkblue.9.png
+SHA1-Digest: O6Dx2aSfGsw4ZR/C0nsa919c5ew=
+
+Name: res/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png
+SHA1-Digest: 4z/eU56yZV8k0VhCXB0LhD0TrxI=
+
+Name: assets/ContentBundle/2-Forearm-RadiusUlna-Facts.html
+SHA1-Digest: t/4il6JvaPQ/CEw0+d0k/4jcEVg=
+
+Name: assets/ContentBundle/1-Knee-KneeDisloc-Image.html
+SHA1-Digest: /nJXzeBuvBgoriIgjwJVBxbs2gM=
+
+Name: assets/ContentBundle/2-Radius, head-RadialHead-Classify.html
+SHA1-Digest: tFx2sQd3MjghsClodWEqLxn68kI=
+
+Name: assets/ContentBundle/1-Acromioclavicular-ACDisloc-Classify.html
+SHA1-Digest: erUNabamg8A5fgzcxnMetYfv6XM=
+
+Name: assets/ContentBundle/humerus.png
+SHA1-Digest: P5fl+/+mYS0KJu+ARE/NgfCwI0k=
+
+Name: assets/ContentBundle/calcaneusharris.png
+SHA1-Digest: /pJLHHReNN/5LSQrPxDtV5Lnw60=
+
+Name: res/drawable-hdpi/abs__cab_background_top_holo_dark.9.png
+SHA1-Digest: BgzwPG8d9Rc3q2/kPXGPQUPekZo=
+
+Name: res/drawable-xhdpi/abs__list_divider_holo_light.9.png
+SHA1-Digest: 8T9xOqrSTFBKeaztPQX0ZmWE2mQ=
+
+Name: res/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png
+SHA1-Digest: xtlobvUj60P3h0OWzOOcO3YkAWU=
+
+Name: assets/ContentBundle/1-Knee-KneeDisloc-Classify.html
+SHA1-Digest: Zk8ST3EVOPicFESrIXoyPOlWCv0=
+
+Name: assets/ContentBundle/clavicle2.png
+SHA1-Digest: K4pcehpK62UA2QHazuF+++nWlWU=
+
+Name: res/drawable-mdpi/abs__ic_voice_search_api_holo_light.png
+SHA1-Digest: 3U4xALJUfZbDalwlHZfcv6kkCQY=
+
+Name: res/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png
+SHA1-Digest: 7zJocL+RBdbu1NudnJijcfct7to=
+
+Name: res/drawable-xhdpi/abs__dialog_full_holo_dark.9.png
+SHA1-Digest: nFbPNkMe+vQdXhbYujQoPLd3IDM=
+
+Name: assets/ContentBundle/calcaneus.png
+SHA1-Digest: J8G01XfHaRnzYwj0BZi0O9zsA0Q=
+
+Name: res/drawable-xhdpi/abs__ic_cab_done_holo_dark.png
+SHA1-Digest: 1XD1KsYvae/WOB8WnfjzrdtJBzk=
+
+Name: res/drawable-hdpi/abs__progress_primary_holo_dark.9.png
+SHA1-Digest: ZACK71V51Ac9fD0UgYgXNZ/6I+U=
+
+Name: assets/ContentBundle/1-Wrist-CarpalDisloc-Facts.html
+SHA1-Digest: myHC+fNzHY9Z2JcgGCd8e+PWYSM=
+
+Name: res/drawable-xhdpi/abs__textfield_search_right_selected_holo_lig
+ ht.9.png
+SHA1-Digest: Byf+SHlZ50jexhmnrSo/DgwsFkY=
+
+Name: res/drawable-xhdpi/abs__ic_ab_back_holo_light.png
+SHA1-Digest: j6b6r0SxTxaZYmg4Do8GNfr/5So=
+
+Name: res/drawable-xhdpi/ab_solid_darkblue.9.png
+SHA1-Digest: Tuib2VZSi7ZRP1CknLTpxWkHnRw=
+
+Name: res/drawable-hdpi/abs__ic_go.png
+SHA1-Digest: 5FfaxDmXF8pisl5t0dWDsWzbWCg=
+
+Name: res/layout-large/app_start.xml
+SHA1-Digest: PFtUdHxmJ9IKiRa9iImChuo9BAI=
+
+Name: assets/ContentBundle/1-Knee-KneeDisloc-Treat.html
+SHA1-Digest: 8yuECaiL9ICTsuQ3HXorgBCTRe0=
+
+Name: assets/ContentBundle/monteggia.png
+SHA1-Digest: J5k5RPdabyGEgOgxaoYuTlbZvGI=
+
+Name: assets/ContentBundle/2-Carpus-Carpus-Facts.html
+SHA1-Digest: yxiYd0ZM6AGS7W9+UI81tt8Bp4I=
+
+Name: res/drawable-xhdpi/abs__cab_background_bottom_holo_dark.9.png
+SHA1-Digest: FGC4LwdURzJD4ypKClYAam2rt/U=
+
+Name: res/drawable-mdpi/abs__ab_transparent_light_holo.9.png
+SHA1-Digest: XWDzwunfA77b0yNocbomq0jPulo=
+
+Name: res/drawable-xhdpi/abs__btn_cab_done_focused_holo_light.9.png
+SHA1-Digest: UiZy7hRf+34fzTbVpAeQkPg1it4=
+
+Name: assets/script-rezip-content.command
+SHA1-Digest: Q0s+qq/7OfhhEq96cGh0UkqueQM=
+
+Name: res/drawable/spinner_background_ab_darkblue.xml
+SHA1-Digest: twbCnCSdsUuIzrEQ7cMAd2Quodw=
+
+Name: res/drawable-mdpi/tab_selected_focused_darkblue.9.png
+SHA1-Digest: UOjjD9lcZW1HPi6fw55XONcK3yM=
+
+Name: assets/ContentBundle/1-Sternoclavicular-SCDisloc-Image.html
+SHA1-Digest: QyURBM9A3WXWy29OnEMV8EpzUeI=
+
+Name: res/drawable-xxhdpi/background_bones.9.png
+SHA1-Digest: +1pmWrE4TT6DAlH8PZSuJ98JvmE=
+
+Name: assets/ContentBundle/2-Pelvis-Pelvis-Image.html
+SHA1-Digest: nAeTQCetByIQhlOxsodUoNVjCCk=
+
+Name: assets/ContentBundle/2-Humerus, diaphysis-Humerus-Facts.html
+SHA1-Digest: 05p9EqbdjcKfZzLDi9hkHVXmaiE=
+
+Name: assets/ContentBundle/2-Tibia_fibula, diaphysis-TibFib-Image.html
+SHA1-Digest: CUgWagvLmi27rD0xS4/nk1iBPx0=
+
+Name: assets/Roboto-Bold.ttf
+SHA1-Digest: 0xOrLEV1a/TpcmR/WyrWka0lCZA=
+
+Name: res/drawable-hdpi/abs__ab_solid_light_holo.9.png
+SHA1-Digest: iVAzmC25Uwto74jHtkTBV2YHVsw=
+
+Name: assets/ContentBundle/2-Ankle-Ankle-Classify.html
+SHA1-Digest: QH7w9pdiPhyK+9NWXSv8t8jkPcY=
+
+Name: res/drawable-hdpi/abs__spinner_ab_focused_holo_light.9.png
+SHA1-Digest: f1t6C4tyUK+4WNw+rnhUuELAdqs=
+
+Name: res/drawable-xhdpi/abs__progress_bg_holo_dark.9.png
+SHA1-Digest: ox/eobp7KjsbtsqtaNnYwJianOE=
+
+Name: res/drawable-hdpi/menu_dropdown_panel_darkblue.9.png
+SHA1-Digest: 4RG0b7fIQEV4H/6ayxPbnsGp6j0=
+
+Name: assets/ContentBundle/pelvislines.png
+SHA1-Digest: LKOpX3mKiP1b4fbh6myuFgqMVuo=
+
+Name: assets/ContentBundle/2-Ankle-Ankle-Treat.html
+SHA1-Digest: UxYAByNGVmRKjCwq6zfpTp6+1Aw=
+
+Name: assets/ContentBundle/tibia.png
+SHA1-Digest: Q0ZL8zUjrHUOPECsMrh9EMPBtA8=
+
+Name: res/drawable/dark_blue_color.xml
+SHA1-Digest: B/eWlxh8aB5uFQEq36RP7NAvUVg=
+
+Name: res/drawable-xhdpi/spinner_ab_focused_darkblue.9.png
+SHA1-Digest: fHybGP6cvxL/JhSqvsBPYkNzKy8=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: TxElwftlpwLtYpBKDI9GTo/cNds=
+
+Name: assets/ContentBundle/2-Hand-Hand-Treat.html
+SHA1-Digest: 4KTqvKVUdmG8H5TuVRWmE7g/bAU=
+
+Name: res/drawable-xhdpi/abs__list_selector_disabled_holo_light.9.png
+SHA1-Digest: MPK9TZpR5zmZ8sAT2LoQZ0lNLyo=
+
+Name: res/drawable-mdpi/ab_transparent_darkblue.9.png
+SHA1-Digest: 7EP+wHlY0qjL//aKn7xIzpmGYXM=
+
+Name: res/layout/abs__search_dropdown_item_icons_2line.xml
+SHA1-Digest: +aqsYc+/C5HgzyKasxxPGYk2vv0=
+
+Name: res/drawable-xhdpi/abs__tab_unselected_pressed_holo.9.png
+SHA1-Digest: YqrTPkw0EJvd8lkN0Y76St2GtT0=
+
+Name: assets/ContentBundle/2-Humerus, distal-DistHumerus-Treat.html
+SHA1-Digest: otSx+cv3CCtL8TgbhfgS7HNwNOY=
+
+Name: res/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png
+SHA1-Digest: IWbFY9JE6tLDg3vps8a1XGSmx7I=
+
+Name: res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png
+SHA1-Digest: RJK5iAyAruNbqpC6Mp0pt1YUgS4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: yPFcYIOiGamwMeDS452KUGIdiHE=
+
+Name: assets/ContentBundle/footlateral.png
+SHA1-Digest: dG1Viq6ajwh0tHQiDyekG/a0Ccs=
+
+Name: assets/ContentBundle/2-Femur, neck-FemurNeck-Facts.html
+SHA1-Digest: ZUVO+q/NaHG+RA+G4o0oGL7A7Gc=
+
+Name: assets/ContentBundle/2-Metacarpal-Hand-Classify.html
+SHA1-Digest: iI8aGZXvlkqWaOmr3dA9TE5Jlbc=
+
+Name: assets/ContentBundle/2-Femur, head-FemurHead-Treat.html
+SHA1-Digest: cAB3N7Knn4CIQJlEHhTOFn4MSlM=
+
+Name: assets/ContentBundle/2-Tibia, distal (pilon)-Pilon-Image.html
+SHA1-Digest: nnCce5UpfaR3sb8vSvmzZ8LZQHI=
+
+Name: res/drawable-hdpi/abs__ab_transparent_light_holo.9.png
+SHA1-Digest: 1PPVbeoSyqliqkyfY/H08fVRpjw=
+
+Name: res/layout/abs__list_menu_item_radio.xml
+SHA1-Digest: qzGuQkAUrWKZfnBrqH0fVi/Czsc=
+
+Name: assets/ContentBundle/1-Tarsometatarsal (Lisfranc)-TMTDisloc-Clas
+ sify.html
+SHA1-Digest: C/F533YyZM3BpcR8ae7Rv5M3WGI=
+
+Name: res/drawable-mdpi/abs__progress_bg_holo_light.9.png
+SHA1-Digest: 5dp1ZziPBR0fIweT0B3P+uMs9KE=
+
+Name: classes.dex
+SHA1-Digest: j880rGdbF3vsxZyVhFENpSShKLg=
+
+Name: res/drawable-hdpi/abs__ab_stacked_solid_dark_holo.9.png
+SHA1-Digest: e/3oEnng6AZTLOo92djFPdIPXLc=
+
+Name: res/drawable-xhdpi/abs__ab_solid_dark_holo.9.png
+SHA1-Digest: CO+2Zr1i8f5JnXbsdTd+j1z+vlU=
+
+Name: res/drawable-hdpi/tab_unselected_focused_darkblue.9.png
+SHA1-Digest: s9iZXenrqo/FuNbX/79Far0/fwk=
+
+Name: assets/ContentBundle/2-Femur, head-FemurHead-Image.html
+SHA1-Digest: 1f8RWrU3FogrixcTgXavaotiCkw=
+
+Name: res/drawable-hdpi/abs__list_activated_holo.9.png
+SHA1-Digest: CryqHoFcxjamvNzipiGDoWeVOGw=
+
+Name: res/drawable-hdpi/abs__list_selector_disabled_holo_light.9.png
+SHA1-Digest: N4pxrY//CzQeTPqMUlApq1xAKjk=
+
+Name: assets/ContentBundle/1-Shoulder-ShoulderDisloc-Facts.html
+SHA1-Digest: WowLA5R4gzP1Oz3fdEus6TWw+YU=
+
+Name: res/drawable-xhdpi/progress_bg_darkblue.9.png
+SHA1-Digest: TIjdMQBphOmeErx6jPxLE+A2E1E=
+
+Name: res/drawable-mdpi/abs__ab_solid_dark_holo.9.png
+SHA1-Digest: qBqeEvt8ayDdAJlaVjck+51a8u4=
+
+Name: assets/ContentBundle/2-Clavicle-Clavicle-Treat.html
+SHA1-Digest: UqxpgQuMiV3nOoCwgjelF0bUcss=
+
+Name: res/layout/abs__list_menu_item_icon.xml
+SHA1-Digest: 0yBkXDhVtrRY7L9sFnZFd+AhDs0=
+
+Name: res/color/abs__primary_text_disable_only_holo_dark.xml
+SHA1-Digest: ZPoG0xtsJQiZOYtuDVfHKKxz2OA=
+
+Name: assets/ContentBundle/2-Radius_ulna, diaphysis-RadiusUlna-Classif
+ y.html
+SHA1-Digest: JzuxOekSJF6MMfwjFFFLItGQ3Cc=
+
+Name: res/drawable-xhdpi/abs__btn_cab_done_default_holo_dark.9.png
+SHA1-Digest: 7JBCbFYKJv6LwavjWqDK8oSDYnM=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: tLm9bnzMm2jZ/yCybWEswBVY5Vw=
+
+Name: assets/ContentBundle/anklelateral.png
+SHA1-Digest: W7AOeaP5zgwGT0RLHA0pgwF6jRA=
+
+Name: res/layout/splash_background.xml
+SHA1-Digest: Nrk/R6H24BKepvMSyHfXQvb/+bs=
+
+Name: res/drawable-hdpi/abs__cab_background_top_holo_light.9.png
+SHA1-Digest: 49UGaCleY6DzwqgTga8B+AMa7mU=
+
+Name: assets/ContentBundle/femurn.png
+SHA1-Digest: clP+Eh9+IfgOYRB5saAzGN/eGp0=
+
+Name: res/drawable-mdpi/abs__ic_cab_done_holo_light.png
+SHA1-Digest: xLtep77kLVwbASmGNfTrXbTFt4U=
+
+Name: assets/ContentBundle/radiusd.png
+SHA1-Digest: 05Q0R0HdgkBGJzB46N2m2R7XEYY=
+
+Name: res/drawable-mdpi/abs__progress_primary_holo_light.9.png
+SHA1-Digest: YN2mWhshv5CvyqgmF7YG8LWoIAI=
+
+Name: res/drawable-mdpi/abs__progress_primary_holo_dark.9.png
+SHA1-Digest: YN2mWhshv5CvyqgmF7YG8LWoIAI=
+
+Name: res/drawable-xhdpi/abs__spinner_48_outer_holo.png
+SHA1-Digest: fDrqMUrUZ5Sd8ul86SD5W6Ai4Uk=
+
+Name: assets/ContentBundle/distalradiuslateral.png
+SHA1-Digest: FEx+qDAWA05XkAm72FGhjs3zLfA=
+
+Name: assets/ContentBundle/pelvis.png
+SHA1-Digest: WrSk0IZFRZWxBuHsfP2hAa9bYQM=
+
+Name: assets/ContentBundle/2-Ankle-Ankle-Facts.html
+SHA1-Digest: om5g0EegDr3O/cfLf2xlZSvoER0=
+
+Name: res/drawable-xhdpi/abs__textfield_search_right_default_holo_ligh
+ t.9.png
+SHA1-Digest: /UIFeo6oXwL7NSIU/486wBQ0Xls=
+
+Name: assets/ContentBundle/jones.png
+SHA1-Digest: fmeCYlfjZLVAwlt01RuAO8gat/Y=
+
+Name: res/drawable-mdpi/abs__progress_bg_holo_dark.9.png
+SHA1-Digest: 2AZThryVu0dfcrzTN64z6SjGSFU=
+
+Name: assets/ContentBundle/2-Phalanx, foot-Forefoot-Treat.html
+SHA1-Digest: aiUJAerh7ZzIBTlFczg7TRcvvD0=
+
+Name: res/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png
+SHA1-Digest: QViCByhwfrxu6epf5FigPsnyCdg=
+
+Name: assets/ContentBundle/2-Ulna, diaphysis-RadiusUlna-Image.html
+SHA1-Digest: Vj7Tke6xaufuXy8EFlzk8pkGgRc=
+
+Name: res/drawable-xhdpi/abs__menu_dropdown_panel_holo_dark.9.png
+SHA1-Digest: j6uHYKKGLed4nqkpTwNtAQn1ii8=
+
+Name: res/drawable-hdpi/abs__tab_selected_holo.9.png
+SHA1-Digest: EGcWvzBVZLpn4Mxtlr8jgNaaysg=
+
+Name: assets/ContentBundle/2-Tibia, plateau-TibPlat-Facts.html
+SHA1-Digest: HszklhdmHaeIY6tQX6UjTiZ7SgU=
+
+Name: res/layout-large/abs__action_mode_close_item.xml
+SHA1-Digest: XdiPBgGqaD63UYmx43Vp2QSFrGs=
+
+Name: res/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png
+SHA1-Digest: 7cVaONlDvpPZrbfvhhQcqnmYAGo=
+
+Name: assets/ContentBundle/2-Femur, intertrochanteric-IT-Treat.html
+SHA1-Digest: bFvIZec+TKfFFxRu7ysTZgFe6OU=
+
+Name: res/drawable-hdpi/abs__spinner_ab_pressed_holo_dark.9.png
+SHA1-Digest: L8ShrrX85N2MMeHOnvsT3nvhuVo=
+
+Name: assets/ContentBundle/2-Pelvis-Pelvis-Facts.html
+SHA1-Digest: J4bF/2jEJfS0mH93ZmHPVq9G6iY=
+
+Name: res/drawable-ldpi/background_bones.9.png
+SHA1-Digest: k7dtnph12BqKoEsP76loFH3TEps=
+
+Name: res/layout/abs__dialog_title_holo.xml
+SHA1-Digest: XdM5g43hA39pnuqcC2LZP3zxmfc=
+
+Name: res/drawable/abs__list_selector_background_transition_holo_light
+ .xml
+SHA1-Digest: tZEKU3PnZmwFIk70MALjLhXI6VE=
+
+Name: res/drawable-mdpi/abs__ic_clear_normal.png
+SHA1-Digest: IVNSUzQls0KKQlwiu8nOXEn0LxM=
+
+Name: res/drawable-hdpi/abs__ab_solid_dark_holo.9.png
+SHA1-Digest: hdQBvg0A8WtuUaVh01UxevHX+cM=
+
+Name: res/drawable-xhdpi/abs__textfield_search_right_default_holo_dark
+ .9.png
+SHA1-Digest: +tv7pXDQ39ETo0AN2rRd00R6//o=
+
+Name: res/drawable-hdpi/abs__textfield_search_default_holo_light.9.png
+SHA1-Digest: RQ1u0qcbQA7OtqKzXyoz2n2WHz4=
+
+Name: res/drawable-xhdpi/abs__ab_stacked_solid_dark_holo.9.png
+SHA1-Digest: dpjB6BOrhRPOK5N48hRjtBoUCLw=
+
+Name: res/drawable-mdpi/tab_selected_darkblue.9.png
+SHA1-Digest: TAUbiWvOfUY2OvbizOQx+FF6nYM=
+
+Name: res/drawable-xhdpi/abs__ic_clear_search_api_holo_light.png
+SHA1-Digest: 3amzDMs5C1zU0+T2IQhw6+cxKro=
+
+Name: assets/ContentBundle/2-Tibia_fibula, diaphysis-TibFib-Treat.html
+SHA1-Digest: VO9qvry0o7m2nh9WB28Y+cpvV/o=
+
+Name: res/drawable-land-hdpi/background_bones.9.png
+SHA1-Digest: fS6+YC7HxZyX2e5pfpNzv9Vfekg=
+
+Name: assets/ContentBundle/2-Coronoid-ElbowDisloc-Classify.html
+SHA1-Digest: SKUoj4MiUaoFgcflGFbIv9/iJbw=
+
+Name: assets/ContentBundle/2-Humerus, distal-DistHumerus-Image.html
+SHA1-Digest: MdXLkO865uHUKoeFXKN16UQ4+KM=
+
+Name: assets/ContentBundle/2-Ulna, olecranon-Olecranon-Facts.html
+SHA1-Digest: 3JccWCdm3HIBJJlWMMJY08SllNs=
+
+Name: res/drawable-hdpi/abs__progress_primary_holo_light.9.png
+SHA1-Digest: ZACK71V51Ac9fD0UgYgXNZ/6I+U=
+
+Name: assets/ContentBundle/1-Elbow-ElbowDisloc-Treat.html
+SHA1-Digest: YTJ8lDiq2TlU+x4vSSjWwl/SJ8c=
+
+Name: assets/ContentBundle/wristlateral.png
+SHA1-Digest: F9RmstAzP2DE6skx5lIiPPYsRNc=
+
+Name: res/drawable-hdpi/abs__list_pressed_holo_light.9.png
+SHA1-Digest: AVyWywHVmqUlb40Lr0kWmnyG6x4=
+
+Name: assets/ContentBundle/1-Hip-HipDisloc-Facts.html
+SHA1-Digest: 7rJA05AMx+jftl0cTGK6qWvP5zk=
+
+Name: assets/ContentBundle/2-Hand-Hand-Classify.html
+SHA1-Digest: e0MGM3au7yD1qjTMfYcmtX0tcwY=
+
+Name: assets/ContentBundle/2-Phalanx, hand-Hand-Classify.html
+SHA1-Digest: GRN5vyNNHucxIT+9Q6q22oH+u+A=
+
+Name: res/drawable-hdpi/cab_background_bottom_darkblue.9.png
+SHA1-Digest: nJaQFFF3CII8EP0bJNp93hUOnhw=
+
+Name: assets/ContentBundle/ankleap.png
+SHA1-Digest: Cxcll7ufps4TryotCItyb9wG1fI=
+
+Name: assets/ContentBundle/2-Femur, distal-DistFemur-Facts.html
+SHA1-Digest: ovyoHieHPkuBxN9lxgu1BAp3QO8=
+
+Name: res/drawable-hdpi/abs__ic_voice_search.png
+SHA1-Digest: 7agxXcJ4MH0+LLTQS2TgG3KWMkQ=
+
+Name: assets/ContentBundle/2-Clavicle-Clavicle-Facts.html
+SHA1-Digest: eAIQi29yxPUUnGFsvyuKK7F9Ax0=
+
+Name: res/drawable/abs__ic_clear.xml
+SHA1-Digest: wJl/aWVq5neE0IDMdtfBn7zKUaI=
+
+Name: assets/ContentBundle/2-Scapula-Scapula-Treat.html
+SHA1-Digest: r09UmlN1tK61ThXxGxg+l6mSsDQ=
+
+Name: assets/ContentBundle/olecranon.png
+SHA1-Digest: iI74kpMF4SLB4IOUHZbINzUL638=
+
+Name: res/drawable-mdpi/abs__cab_background_top_holo_light.9.png
+SHA1-Digest: qMevukEhpyInxcS1esEpETafNM8=
+
+Name: assets/ContentBundle/2-Femur, subtrochanteric-Subtroch-Treat.htm
+ l
+SHA1-Digest: 2kzPM0a0JNK7bhax7NqMGDEcHAM=
+
+Name: assets/ContentBundle/2-Tibia_fibula, diaphysis-TibFib-Classify.h
+ tml
+SHA1-Digest: Y3zLfh58ICzc+NpHdUb0s/3iqxs=
+
+Name: assets/ContentBundle/ac.png
+SHA1-Digest: /xQpyhomrJWR7IhiCxZohWtsG70=
+
+Name: res/drawable-hdpi/abs__ab_solid_shadow_holo.9.png
+SHA1-Digest: F1dT28t355ONZITTuwi6eE5t2b8=
+
+Name: assets/ContentBundle/kneelateral.png
+SHA1-Digest: 56tiwLyWIi12w3YOZ+fgbBaQbLk=
+
+Name: res/drawable-land-xhdpi/background_bones.9.png
+SHA1-Digest: am/M1KdOzZPJsOD7CBnxcLAGm+U=
+
+Name: res/drawable-mdpi/abs__tab_selected_focused_holo.9.png
+SHA1-Digest: NV47wCsoNb/8Hg8H1PyNA3MgoVs=
+
+Name: res/drawable-xhdpi/tab_selected_focused_darkblue.9.png
+SHA1-Digest: 003fhYZ4k2n/yWg4B1Hk3zbFMCY=
+
+Name: assets/ContentBundle/2-Phalanx, foot-Forefoot-Classify.html
+SHA1-Digest: frdh2CnH1y0UudXRt/J/g4TwYW0=
+
+Name: res/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png
+SHA1-Digest: dfartktshco1QWrbsNpif24wjJg=
+
+Name: res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png
+SHA1-Digest: VaBcdkqtnqN4b5kgmcrijCpiKig=
+
+Name: res/drawable-hdpi/tab_selected_darkblue.9.png
+SHA1-Digest: nHoNjLj9FUDkPR28C2iclgDol1U=
+
+Name: res/drawable/abs__activated_background_holo_light.xml
+SHA1-Digest: 8FFImWuQtXEFayPbD656ZGS/bxw=
+
+Name: res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png
+SHA1-Digest: mPL3543lybVupzqT933BKAl+dlU=
+
+Name: res/drawable-mdpi/spinner_ab_focused_darkblue.9.png
+SHA1-Digest: xBsV1Y57n6gkTaWKsPlL+XHs640=
+
+Name: res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png
+SHA1-Digest: ltRMlwy92kVfao/EAq/X0OsL1oc=
+
+Name: res/drawable-xhdpi/abs__btn_cab_done_default_holo_light.9.png
+SHA1-Digest: eawLChaUrNPZM25hA47p2MB9pHc=
+
+Name: assets/ContentBundle/2-Radius, distal-DistRadius-Image.html
+SHA1-Digest: OnIDz+xBihUASQo8Rh2InsgLg1o=
+
+Name: res/drawable-hdpi/btn_cab_done_pressed_darkblue.9.png
+SHA1-Digest: TKZqEOA9wmJXFJA0mZvYzwnBsQE=
+
+Name: res/layout/app_start.xml
+SHA1-Digest: e4AgaquHEzPZotMpWrIXqjxVXJk=
+
+Name: res/drawable-xhdpi/abs__textfield_search_right_selected_holo_dar
+ k.9.png
+SHA1-Digest: Byf+SHlZ50jexhmnrSo/DgwsFkY=
+
+Name: res/drawable-hdpi/abs__tab_selected_focused_holo.9.png
+SHA1-Digest: YyCZ0NHjYUP2jEOwswAoE6MoWsc=
+
+Name: res/drawable-hdpi/abs__spinner_ab_default_holo_dark.9.png
+SHA1-Digest: +7uw2X/1KZpnoaqfuXTMaxfBfPY=
+
+Name: res/drawable-hdpi/abs__ab_transparent_dark_holo.9.png
+SHA1-Digest: re6f3Dt6EmMQ1BAhi28dpZ+KSqg=
+
+Name: res/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png
+SHA1-Digest: rsWlScRgXqJe76pnUyUvp+TLsXg=
+
+Name: assets/ContentBundle/2-Carpus-Carpus-Treat.html
+SHA1-Digest: 6+f/FOO4YO0szmGbpxtDi9Tu15s=
+
+Name: res/layout/abs__action_mode_bar.xml
+SHA1-Digest: hRXFBnRpuvfdbPg8pwNdUvwTJpc=
+
+Name: res/drawable-mdpi/abs__ic_clear_disabled.png
+SHA1-Digest: UoYHZszhWw4lnx9sRD5pSHz4UOY=
+
+Name: res/drawable-xhdpi/abs__list_pressed_holo_dark.9.png
+SHA1-Digest: 6mFx7W/WZzwz8KaB8gz1FwlUflU=
+
+Name: res/drawable-xhdpi/abs__ic_go_search_api_holo_light.png
+SHA1-Digest: xdY9kP5INqW6j3rI+AJK95oizGY=
+
+Name: assets/ContentBundle/2-Patella-Patella-Facts.html
+SHA1-Digest: gdS7PFdeZoCaliIRn8PBvTcGYW8=
+
+Name: res/drawable-xhdpi/tab_selected_darkblue.9.png
+SHA1-Digest: ZaMwVUnND+FE0uuHmtxBJd9PujA=
+
+Name: res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_light.p
+ ng
+SHA1-Digest: POMOeAlguZlbMbGoPhcyZRJSqPc=
+
+Name: res/drawable-hdpi/abs__ic_menu_share_holo_light.png
+SHA1-Digest: 0tLlLqR2d/Ih26WbDIDIdyF4Hxg=
+
+Name: res/drawable-xhdpi/tab_selected_pressed_darkblue.9.png
+SHA1-Digest: nguZcEa5wahEWHy9a//VXlB40EU=
+
+Name: assets/ContentBundle/2-Navicular-Navicular-Treat.html
+SHA1-Digest: Yl6QhGagtI97RiAl4ykDoOaY3H8=
+
+Name: res/layout/abs__activity_chooser_view.xml
+SHA1-Digest: Z0hRWqufQGdb59YXNSTYuIR4U/w=
+
+Name: res/drawable/tab_indicator_ab_darkblue.xml
+SHA1-Digest: VEG5AzeSHtdLlMPdSxqWfpEJz7Y=
+
+Name: res/drawable-xhdpi/abs__ic_voice_search_api_holo_light.png
+SHA1-Digest: P1jpz8ofWbmEG86xdzBCJ2/oV1Q=
+
+Name: assets/ContentBundle/2-Humerus, proximal-ProxHumerus-Facts.html
+SHA1-Digest: ImMw2Wna9DBIdvpbG49QutPF8VM=
+
+Name: res/drawable-xhdpi/abs__ab_share_pack_holo_dark.9.png
+SHA1-Digest: NHPSLjWWjkOLECIO9pQXxnQrmuc=
+
+Name: res/drawable-hdpi/spinner_ab_default_darkblue.9.png
+SHA1-Digest: 6q1Y7l5v9PUllsS4zKCbY7dpaYQ=
+
+Name: res/drawable-hdpi/abs__ic_clear_search_api_disabled_holo_light.p
+ ng
+SHA1-Digest: qqp8zIaefWz8rJ9YnzxAPjg8Mbg=
+
+Name: res/drawable-xhdpi/progress_primary_darkblue.9.png
+SHA1-Digest: zjSD6rzfgSIaX0SvBmanBsesyb4=
+
+Name: assets/ContentBundle/2-Forearm-RadiusUlna-Classify.html
+SHA1-Digest: 06ON1X/QhMiMBHAkIWwdMmO++O8=
+
+Name: assets/ContentBundle/subtroch.png
+SHA1-Digest: WYGD7fMWBMWXvQjTm+lmzhdG4DY=
+
+Name: res/color/menulist_fragment_textbox_text_statelist.xml
+SHA1-Digest: TWV/MvfF167+XTEkOEX0GEQF/C0=
+
+Name: res/drawable-mdpi/abs__list_activated_holo.9.png
+SHA1-Digest: /uU9+qqC9MjC0cwR3L+DskCy9xM=
+
+Name: res/drawable/ab_background_color.xml
+SHA1-Digest: 8uqqwDZOBWL21cAAHx6XqNICwJw=
+
+Name: res/drawable-hdpi/abs__ic_clear_search_api_holo_light.png
+SHA1-Digest: lySLLFGrRykDN0crMWsDOJvAcPI=
+
+Name: assets/ContentBundle/thumb.png
+SHA1-Digest: Qb3g97qqnB150VWJQETq04B8yrY=
+
+Name: assets/ContentBundle/distalradiusap.png
+SHA1-Digest: jH+6dm/UK6fx1+HWaCcZAm3VQYg=
+
+Name: assets/ContentBundle/2-Humerus, diaphysis-Humerus-Classify.html
+SHA1-Digest: F4J8qc27edLq6U/nRcDORLvI0pw=
+
+Name: assets/ContentBundle/1-Carpometacarpal (CMC)-CMCDisloc-Image.htm
+ l
+SHA1-Digest: lmjeFi55JkDz4qVH4VAXgW3Ii0U=
+
+Name: res/drawable-hdpi/abs__ic_clear_disabled.png
+SHA1-Digest: YvwDlm7HOzynv8MCUZdxCZoESuQ=
+
+Name: assets/ContentBundle/1-Carpometacarpal (CMC)-CMCDisloc-Facts.htm
+ l
+SHA1-Digest: qB18qcB5nXwu7uHaj7nUDeFp5Jo=
+
+Name: res/layout-w500dp/app_start.xml
+SHA1-Digest: 2vHGUIVIOw94sSBnYA7r601FTTk=
+
+Name: res/drawable/abs__textfield_searchview_holo_dark.xml
+SHA1-Digest: YJyzDmcSryFyxHnD+GZbeZumLZo=
+
+Name: assets/ContentBundle/styles.css
+SHA1-Digest: UXUdZKC2qe1hPFWsQOOTU0Djwvc=
+
+Name: res/drawable-hdpi/abs__spinner_ab_disabled_holo_dark.9.png
+SHA1-Digest: aUsM0UNzxEz/G+Xd+tU4VvV6g8c=
+
+Name: assets/ContentBundle/femurap.png
+SHA1-Digest: 6GZLs9dOns13mMo5ENcLU3oVOc4=
+
+Name: res/drawable-hdpi/ab_transparent_darkblue.9.png
+SHA1-Digest: te4ShU8jugbPdbOitcfBH4EzguQ=
+
+Name: res/layout/abs__popup_menu_item_layout.xml
+SHA1-Digest: mpOMSyQkEP9gpakMaR/LHRVHros=
+
+Name: res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png
+SHA1-Digest: sXUh1a054bWtm2NSgK70cbl4mis=
+
+Name: res/drawable-land-xxhdpi/background_bones.9.png
+SHA1-Digest: AI8PhUyTWfkRbrnYt+TE+K/A8wI=
+
+Name: assets/ContentBundle/2-Acetabulum-Acetab-Image.html
+SHA1-Digest: sSOZ6TfwCypxzl0+DwDvzP+1jm0=
+
+Name: assets/ContentBundle/2-Femur, trochanteric-Troch-Facts.html
+SHA1-Digest: 1GpmZNflhEDKfYDPS8/46cVItB4=
+
+Name: assets/ContentBundle/2-Calcaneus-Calcaneus-Facts.html
+SHA1-Digest: uZNBXOMpTzAL9T1ucTepGyPJgY0=
+
+Name: assets/ContentBundle/anklemortise.png
+SHA1-Digest: lUeINV3sEv1AdwZY7XzEf5wFZgc=
+
+Name: res/drawable-hdpi/abs__progress_secondary_holo_dark.9.png
+SHA1-Digest: 7jwN3UdNV7sRgNjSozjqeBab1M8=
+
+Name: res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png
+SHA1-Digest: xaK+sWCPT47/QiqeFNHU+6mso9s=
+
+Name: assets/ContentBundle/2-Phalanx, hand-Hand-Treat.html
+SHA1-Digest: V1Dg+mGsWgwnHcrnbHrHpCPSuIA=
+
+Name: res/drawable-hdpi/abs__ab_share_pack_holo_dark.9.png
+SHA1-Digest: MvCWu6Smoh7JLB9yEl7XujWB17o=
+
+Name: res/drawable-xhdpi/abs__ic_search.png
+SHA1-Digest: q8O3pO21Z1GUDY9tDu0OFWcFQw0=
+
+Name: assets/ContentBundle/1-Sternoclavicular-SCDisloc-Classify.html
+SHA1-Digest: R97UtpyzL/YLJNrqk+8ObNiDk+0=
+
+Name: res/drawable-xhdpi/cab_background_bottom_darkblue.9.png
+SHA1-Digest: avrl74S9cyfewPojiKuqKDXGntU=
+
+Name: assets/ContentBundle/2-Ulna, diaphysis-RadiusUlna-Facts.html
+SHA1-Digest: t/4il6JvaPQ/CEw0+d0k/4jcEVg=
+
+Name: assets/ContentBundle/coronoid.png
+SHA1-Digest: 0W3TBAh2jdLAT97byIGjMB1N6Wc=
+
+Name: assets/ContentBundle/1-Tibiofibular, proximal-PTFJDisloc-Treat.h
+ tml
+SHA1-Digest: WvRlZzZ0T2ajakwu/WZqmdGJkGM=
+
+Name: res/drawable-xhdpi/abs__ab_bottom_solid_inverse_holo.9.png
+SHA1-Digest: i81zunI3ZiMxjkN2JqU44wLxGr8=
+
+Name: res/layout-xlarge/abs__screen_action_bar.xml
+SHA1-Digest: eLnsuBgysOBuf+59ia1K/rmZ2vs=
+
+Name: assets/ContentBundle/1-Carpal-CarpalDisloc-Treat.html
+SHA1-Digest: ruskFpgFSdO+QdknJQ3JCf+UdXI=
+
+Name: res/drawable-xhdpi/abs__progress_bg_holo_light.9.png
+SHA1-Digest: TIjdMQBphOmeErx6jPxLE+A2E1E=
+
+Name: assets/ContentBundle/1-Midtarsal (Chopart)-MidtarsalDisloc-Class
+ ify.html
+SHA1-Digest: os5xy7RY2aAw0HQIFaqguuvgO9I=
+
+Name: assets/ContentBundle/talusap.png
+SHA1-Digest: uege1fQYiquQErg+sZtNUv3wgcw=
+
+Name: res/drawable-hdpi/ab_stacked_solid_darkblue.9.png
+SHA1-Digest: Jp+4uOxCeNWeiAwEMOO4WMHCZs4=
+
+Name: res/drawable-mdpi/abs__textfield_search_right_selected_holo_dark
+ .9.png
+SHA1-Digest: dk4/jC/lwUb2wXpAv3FNfBqsmkM=
+
+Name: res/drawable-mdpi/abs__textfield_search_right_selected_holo_ligh
+ t.9.png
+SHA1-Digest: dk4/jC/lwUb2wXpAv3FNfBqsmkM=
+
+Name: assets/ContentBundle/2-Acetabulum-Acetab-Classify.html
+SHA1-Digest: 97rWKIAUl173MFA7SFm8W1Wl9ns=
+
+Name: assets/ContentBundle/intertroch.png
+SHA1-Digest: S9Be4gXX13C5VP7xWsUojqeJbYo=
+
+Name: assets/ContentBundle/2-Forearm-RadiusUlna-Treat.html
+SHA1-Digest: 6dEZYuntnqyB5k7ch2O9OBUXwws=
+
+Name: assets/ContentBundle/2-Femur, head-FemurHead-Facts.html
+SHA1-Digest: /UQB/CEktrsNLxt2NUxB9sAqVNs=
+
+Name: res/drawable-hdpi/abs__list_divider_holo_dark.9.png
+SHA1-Digest: stTgeZCrCJ/rcueRykiUYhtUunM=
+
+Name: res/layout/abs__action_bar_tab_bar_view.xml
+SHA1-Digest: rcrwANXjNFHlF7Vuxm/qdhkZn0w=
+
+Name: assets/ContentBundle/1-Tarsometatarsal (Lisfranc)-TMTDisloc-Trea
+ t.html
+SHA1-Digest: F3UjTvxrAd0jcB66bsm5P8sSuiQ=
+
+Name: res/drawable-xhdpi/ab_transparent_darkblue.9.png
+SHA1-Digest: KQMTZRskT8tn6nK2nm+pDukEstY=
+
+Name: assets/ContentBundle/2-Hand-Hand-Facts.html
+SHA1-Digest: Di4G4qqYuupfqbgDR/0u6adLfCw=
+
+Name: assets/ContentBundle/1-Subtalar-SubtalarDisloc-Classify.html
+SHA1-Digest: sScTSB7iw/cYAOxYoDLJWmKfTf8=
+
+Name: res/drawable-xhdpi/abs__spinner_ab_focused_holo_light.9.png
+SHA1-Digest: L8hDtOwArBf38BTHav0GjRDcU3I=
+
+Name: assets/ContentBundle/shaft.png
+SHA1-Digest: 34lMX8EcYR7zm9Izci3AQv00tJU=
+
+Name: assets/ContentBundle/gilula.png
+SHA1-Digest: 6eKZv4oCJX4TUiFTAa+VTUZAmLY=
+
+Name: res/layout/abs__screen_action_bar_overlay.xml
+SHA1-Digest: V2CXLg1aydmOXc+stJ1fSYxOGfc=
+
+Name: assets/ContentBundle/2-Talus-Talus-Classify.html
+SHA1-Digest: QBpZImDMcA+r4Xj872572r7G204=
+
+Name: res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png
+SHA1-Digest: HjRIDaTJpRHroGCRPqkiQhHo5cE=
+
+Name: res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png
+SHA1-Digest: qw7ijsYrBh4uJ/d+g6WqZx42f+k=
+
+Name: res/drawable-mdpi/ab_solid_darkblue.9.png
+SHA1-Digest: yoBrx2oFDRE4IDEySMPPzNG+NBg=
+
+Name: assets/ContentBundle/humerusjupiter.png
+SHA1-Digest: eNlg0fV0OuM6sRuK9bJl83rBoLo=
+
+Name: res/drawable-xhdpi/abs__spinner_48_inner_holo.png
+SHA1-Digest: PLBKLgruzfSe2Y8Boada5hpz1+Y=
+
+Name: assets/ContentBundle/forearm.png
+SHA1-Digest: 6AVJRtrD0Ch+jvtK1yu+BSP0Lns=
+
+Name: assets/ContentBundle/shouldery.png
+SHA1-Digest: Oe7/Uw/Iddm2iAoi0pScZ6Qhx4Y=
+
+Name: res/drawable-mdpi/menu_dropdown_panel_darkblue.9.png
+SHA1-Digest: fbCf2VtmNGl65pqoU8bRg3hp5uw=
+
+Name: assets/ContentBundle/1-Subtalar-SubtalarDisloc-Image.html
+SHA1-Digest: rFMyXd1BQhWO5+G3dBLIjX/M7dw=
+
+Name: assets/ContentBundle/femurh.png
+SHA1-Digest: n+cDv2TcyoGV/iPw9lLouQArOO4=
+
+Name: res/drawable-mdpi/progress_secondary_darkblue.9.png
+SHA1-Digest: 4iPpgsZAHC45HTBo1eLKOzONtj4=
+
+Name: res/drawable-mdpi/abs__textfield_search_right_default_holo_light
+ .9.png
+SHA1-Digest: p1nqADd/aYF0mOi9k3+UWqfqECU=
+
+Name: assets/ContentBundle/2-Metacarpal-Hand-Facts.html
+SHA1-Digest: Di4G4qqYuupfqbgDR/0u6adLfCw=
+
+Name: res/drawable-hdpi/list_focused_darkblue.9.png
+SHA1-Digest: 8WBpD2j+zbrnq4VLoYRuNZu847M=
+
+Name: res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png
+SHA1-Digest: 0B43TB4vaDu8bduSNGStON3soJI=
+
+Name: assets/ContentBundle/0-Introduction-Intro.html
+SHA1-Digest: fS1Uue49T4CY85HH0QbDq1wbIUU=
+
+Name: res/drawable-mdpi/abs__ab_transparent_dark_holo.9.png
+SHA1-Digest: dxctP2/uKuqLc17wZwWWmBuG7d8=
+
+Name: res/drawable-hdpi/abs__spinner_ab_pressed_holo_light.9.png
+SHA1-Digest: B+e5zyD7l5DOf6+xwIccY75ErxQ=
+
+Name: assets/ContentBundle/clavicle.png
+SHA1-Digest: nN/1JDIn2XeBCF5CQEpB/8u6Ooc=
+
+Name: res/drawable/abs__textfield_searchview_holo_light.xml
+SHA1-Digest: Eio/yVoKWFHEtV0vCxmEskKzb3c=
+
+Name: res/drawable-hdpi/abs__ic_ab_back_holo_dark.png
+SHA1-Digest: 4wLdJxzHSQAOwUbt6n9aUD6G3qQ=
+
+Name: assets/ContentBundle/1-Patellar-PatellaDisloc-Facts.html
+SHA1-Digest: UnunbBphgcJaFFPc4mtsOEU7o40=
+
+Name: res/drawable/abs__textfield_searchview_right_holo_dark.xml
+SHA1-Digest: fwRUJ5OgIvX43tUU7aDdvg6Vz5M=
+
+Name: res/drawable-mdpi/spinner_ab_disabled_darkblue.9.png
+SHA1-Digest: Pfms9A7UqiIlPS+DBm/7zQYBJao=
+
+Name: res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png
+SHA1-Digest: 4yQfpkBrRkBsuNAfQ9ENpvqvEqQ=
+
+Name: assets/ContentBundle/1-Metacarpophalangeal (MCP)-Hand-Facts.html
+SHA1-Digest: WyVmgYSumlQ3ajW23tldif4ENgc=
+
+Name: res/drawable/abs__progress_medium_holo.xml
+SHA1-Digest: YShq1Upq1nkJMiXj/rsyYimFEy4=
+
+Name: res/drawable-xhdpi/btn_cab_done_focused_darkblue.9.png
+SHA1-Digest: 9Y2d9Xj94Lny34bQOC9cm47Ue8E=
+
+Name: res/drawable/selectable_background_darkblue.xml
+SHA1-Digest: VD+oH7mXZju0s4HuG4pY5t29MWQ=
+
+Name: res/drawable/menulist_fragment_textbox_background_statelist.xml
+SHA1-Digest: ytjnbLwR79CXgwxNoXqq9WM1i+A=
+
+Name: res/drawable-mdpi/abs__ab_solid_light_holo.9.png
+SHA1-Digest: w5eNJ2dsSzfy7QRf9OUKUQrv0hM=
+
+Name: res/layout/abs__search_view.xml
+SHA1-Digest: JL9Zm9BMhuXlhflN7mt4a4AZkSc=
+
+Name: assets/ContentBundle/2-Radius_ulna, diaphysis-RadiusUlna-Image.h
+ tml
+SHA1-Digest: FAIV2nMHobEMZC72C9TpOG2dq5U=
+
+Name: assets/ContentBundle/shenton.png
+SHA1-Digest: /g0gjM/98IepkN3a1vQU/3xC9rw=
+
+Name: assets/ContentBundle/2-Ulna, diaphysis-RadiusUlna-Treat.html
+SHA1-Digest: 6dEZYuntnqyB5k7ch2O9OBUXwws=
+
+Name: assets/ContentBundle/1-Patellar-PatellaDisloc-Image.html
+SHA1-Digest: wKYLV6q8yBPKu9Z2enTP5bulHEg=
+
+Name: res/layout/abs__action_menu_item_layout.xml
+SHA1-Digest: CC6pZ4TXltVq8NYqsbgnuDBr7hQ=
+
+Name: res/drawable-mdpi/abs__list_focused_holo.9.png
+SHA1-Digest: wq1XBihYEP7fT9hT55vx2S7+KDQ=
+
+Name: assets/ContentBundle/2-Femur, diaphysis-FemurShaft-Classify.html
+SHA1-Digest: O/wzyuW7oG6o2b385QrlNSEo1c4=
+
+Name: assets/ContentBundle/elbowlateral.png
+SHA1-Digest: xvBBTA5IU5TrlgrTKJyY/SNwmR4=
+
+Name: res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_light.pn
+ g
+SHA1-Digest: BxRbrMy1vKFl2bV5l1w7isKmc1I=
+
+Name: res/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png
+SHA1-Digest: jVPtpYAlDpgcnAlu72OtcG8IpPg=
+
+Name: res/drawable/abs__tab_indicator_ab_holo.xml
+SHA1-Digest: PiT2p8z5HrnRF6ZrxxsKXSynUV8=
+
+Name: res/drawable-xhdpi/menu_dropdown_panel_darkblue.9.png
+SHA1-Digest: KzkGeZaVf5M2U0sCy+mQMN93zac=
+
+Name: res/drawable-hdpi/abs__ab_share_pack_holo_light.9.png
+SHA1-Digest: fdeYILVy5v/SeJsKd+T41f+iaxk=
+
+Name: res/drawable-xhdpi/abs__ic_cab_done_holo_light.png
+SHA1-Digest: c9TvWCMataZvt30VdBp4tsgJl0A=
+
+Name: res/drawable-xhdpi/spinner_ab_disabled_darkblue.9.png
+SHA1-Digest: gf8TTddDbNlW4tWg78qpdoTSltc=
+
+Name: assets/ContentBundle/1-Wrist-CarpalDisloc-Classify.html
+SHA1-Digest: T1CDufm2S00hOHQdGDRoV+Uu31M=
+
+Name: res/drawable-hdpi/abs__menu_dropdown_panel_holo_light.9.png
+SHA1-Digest: cVwYvR+7k+zXPMz+KoM2S7dH7eQ=
+
+Name: res/drawable-xhdpi/abs__ic_ab_back_holo_dark.png
+SHA1-Digest: sq4yGEUKX3IePUBAZG7mwdMnHUU=
+
+Name: res/drawable-mdpi/abs__ic_voice_search.png
+SHA1-Digest: 5JaDsXVK2Dbj7cLliiy1vur2i54=
+
+Name: res/drawable-hdpi/progress_primary_darkblue.9.png
+SHA1-Digest: hYnhftIrcgK2JFIEQdHzNVVj4oE=
+
+Name: assets/ContentBundle/2-Hand-Hand-Image.html
+SHA1-Digest: 5IlPTk22WJIEq+sFSO3c9l5eeKo=
+
+Name: assets/ContentBundle/2-Ulna, olecranon-Olecranon-Image.html
+SHA1-Digest: VjDK6TpR4UrNcL5lR16RlCWzz/M=
+
+Name: res/drawable-hdpi/abs__progress_bg_holo_dark.9.png
+SHA1-Digest: pajcNa9RUQQe2KOcYkA0CXUula0=
+
+Name: res/drawable-hdpi/abs__progress_bg_holo_light.9.png
+SHA1-Digest: MmdQaTii1skRRuZ2pZXpeqP/kO8=
+
+Name: res/drawable-hdpi/abs__spinner_ab_focused_holo_dark.9.png
+SHA1-Digest: m9zFr/8DlkhzV0iM8Tc5P9Sv9G8=
+
+Name: res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png
+SHA1-Digest: T1g+8G/BP3L25AP/FXpk1PSSCqk=
+
+Name: res/drawable-hdpi/abs__list_longpressed_holo.9.png
+SHA1-Digest: CryqHoFcxjamvNzipiGDoWeVOGw=
+
+Name: res/drawable/abs__item_background_holo_light.xml
+SHA1-Digest: xL40bi+abGYnAXa82b0+RZmvfkI=
+
+Name: assets/ContentBundle/Default.png
+SHA1-Digest: 8Sn7YMxiu/7bq4dKJ/NY1wKNVDw=
+
+Name: res/drawable-mdpi/tab_selected_pressed_darkblue.9.png
+SHA1-Digest: SP+f7WengArncPOJ4/NvQozh624=
+
+Name: res/drawable-hdpi/spinner_ab_focused_darkblue.9.png
+SHA1-Digest: SZQcutwV+N+rNdE0hPLtHOF8shA=
+
+Name: res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png
+SHA1-Digest: LldjWhl2yLUbokSickpz3Mb8isk=
+
+Name: assets/ContentBundle/talusmortise.png
+SHA1-Digest: CSK3DRHzzvEICV3f20QJkndUZRs=
+
+Name: assets/ContentBundle/2-Cuboid-Cuboid-Treat.html
+SHA1-Digest: kz4h2E0okSs5ahlQdvomoLjHRnI=
+
+Name: assets/ContentBundle/1-Wrist-CarpalDisloc-Image.html
+SHA1-Digest: btteCJzq8A6ZSd0phP+eX1/hXck=
+
+Name: assets/ContentBundle/1-Shoulder-ShoulderDisloc-Image.html
+SHA1-Digest: 6hmUjUeM2xFzf12FyXAjzUcCqKE=
+
+Name: res/drawable/abs__btn_cab_done_holo_light.xml
+SHA1-Digest: bKMuGMf3onBajj3S2bmo+mmW/HI=
+
+Name: res/drawable-xhdpi/abs__ic_clear_disabled.png
+SHA1-Digest: G8GDUr3hiAK4FA4HKJF0SSRH+cM=
+
+Name: assets/ContentBundle/2-Patella-Patella-Classify.html
+SHA1-Digest: XrWDIYvMreQg2HSoJ6ssuSFy6Mc=
+
+Name: assets/ContentBundle/1-Ankle-Ankle-Image.html
+SHA1-Digest: 8LKQlXUhR5fajnvREnmzvUIB9lw=
+
+Name: res/drawable-hdpi/abs__ab_bottom_solid_inverse_holo.9.png
+SHA1-Digest: sSvEnQ0TR3hirl1Pu2sMp/rUNdU=
+
+Name: res/drawable-hdpi/tab_selected_pressed_darkblue.9.png
+SHA1-Digest: OAIK13OqxUesLPgj5ux47h2D1H8=
+
+Name: res/drawable-xhdpi/cab_background_top_darkblue.9.png
+SHA1-Digest: fHzg9yufsRZMGPZ7ADgS86Fjo6w=
+
+Name: assets/ContentBundle/1-Tarsometatarsal (Lisfranc)-TMTDisloc-Imag
+ e.html
+SHA1-Digest: z23B8qPMRqOM+QHpCPq3/pTcNXg=
+
+Name: assets/ContentBundle/femurd.png
+SHA1-Digest: CyNwMfVaUvi00GelfXcmcvm3s2c=
+
+Name: assets/ContentBundle/2-Femur, neck-FemurNeck-Classify.html
+SHA1-Digest: IHYLjCLR+QhgaPzf8A7Nhb9Rc78=
+
+Name: res/layout/comp_list_section_item.xml
+SHA1-Digest: yeut23YgebC6DTX4TVgzk+BEQ64=
+
+Name: assets/ContentBundle/2-Scapula-Scapula-Classify.html
+SHA1-Digest: jllnSY7IxSgctrVAE8qGYbrrkN0=
+
+Name: assets/ContentBundle/frykman.png
+SHA1-Digest: 9cqwYtVVWmERSRoFyoyvYHXJWgc=
+
+Name: res/drawable-hdpi/abs__tab_selected_pressed_holo.9.png
+SHA1-Digest: 22fLKEhsfFYJxZ+lu7ceCOzFHHo=
+
+Name: res/drawable-hdpi/abs__btn_cab_done_pressed_holo_dark.9.png
+SHA1-Digest: BIBaQVc6LUy8C6jmy8RvpW2ozpY=
+
+Name: assets/ContentBundle/2-Calcaneus-Calcaneus-Image.html
+SHA1-Digest: o3LWpI4+z7msRCMiJoUvoKxVn2s=
+
+Name: res/drawable-xhdpi/abs__ic_clear_search_api_disabled_holo_light.
+ png
+SHA1-Digest: UTzyvWsXOq8h61wuNZzbaIw/Iu0=
+
+Name: assets/ContentBundle/2-Femur, subtrochanteric-Subtroch-Facts.htm
+ l
+SHA1-Digest: aP5ukvmhx1r9kU+1SJ8xeVYPo/g=
+
+Name: res/drawable-mdpi/abs__textfield_search_right_default_holo_dark.
+ 9.png
+SHA1-Digest: kbmf07fyikp5TPCnqcSz0GRTdIA=
+
+Name: assets/ContentBundle/lisfranc.png
+SHA1-Digest: SKuGE/F4QOPx48AzDoABuGW7e30=
+
+Name: assets/ContentBundle/2-Tibia, distal (pilon)-Pilon-Classify.html
+SHA1-Digest: 5CImg+b2osgnO0lvUobb0YkyzMA=
+
+Name: res/layout/abs__list_menu_item_layout.xml
+SHA1-Digest: RmouSxz7d6IHRMAHXN2Y46wcXHc=
+
+Name: res/drawable-hdpi/abs__ab_stacked_transparent_dark_holo.9.png
+SHA1-Digest: QeVPBZISJz+N12VyjvKj6lwfGP0=
+
+Name: res/drawable-xhdpi/abs__ab_stacked_solid_light_holo.9.png
+SHA1-Digest: NumxU3xNFNCDIiGpV4kETCuT3E0=
+
+Name: res/layout/abs__list_menu_item_checkbox.xml
+SHA1-Digest: yu6jUbb9ZrQB9UIeW4HUoHZZXnA=
+
+Name: res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png
+SHA1-Digest: 7EAtE/Hud24EgXIDi6iilu47Ey0=
+
+Name: assets/ContentBundle/1-Midtarsal (Chopart)-MidtarsalDisloc-Treat
+ .html
+SHA1-Digest: gsrrwOKs82FnXYR66HDo4Lfn4ls=
+
+Name: assets/ContentBundle/1-Metacarpophalangeal (MCP)-Hand-Classify.h
+ tml
+SHA1-Digest: mvL53pLRWWChy/WxsC9rml4kG6s=
+
+Name: res/drawable-hdpi/abs__textfield_search_right_default_holo_light
+ .9.png
+SHA1-Digest: I+9OSt1Eq0rxHvqBYiGfE+S2cdA=
+
+Name: res/drawable-mdpi/abs__textfield_search_selected_holo_light.9.pn
+ g
+SHA1-Digest: ZQ8sXjtBSFVuUrvpILUvUmO3qx8=
+
+Name: assets/ContentBundle/2-Radius, head-RadialHead-Treat.html
+SHA1-Digest: TTVL6rt4WXFtL5+k3TioV3pugnw=
+
+Name: assets/ContentBundle/1-Metacarpophalangeal (MCP)-Hand-Image.html
+SHA1-Digest: tvAO80U5hkfYewGQqG+293LUeSg=
+
+Name: res/layout/webview.xml
+SHA1-Digest: HAmlOsvvo3nDzzHWSchCTLJtiGE=
+
+Name: assets/ContentBundle/2-Phalanx, hand-Hand-Image.html
+SHA1-Digest: 9svBx0qsnR+kjOkxDF2pEAZPFXw=
+
+Name: res/drawable-xhdpi/abs__tab_selected_pressed_holo.9.png
+SHA1-Digest: OLaMsKJKZf1gU3w0fFirc0TUvPI=
+
+Name: res/drawable-xhdpi/ab_stacked_solid_darkblue.9.png
+SHA1-Digest: glrsBITRJ/pzbwy2aBL88GTeumQ=
+
+Name: res/drawable-hdpi/abs__textfield_search_right_selected_holo_ligh
+ t.9.png
+SHA1-Digest: bXWiiIAT50k1Ql0b/Uqk6dDyDCU=
+
+Name: assets/ContentBundle/2-Ankle-Ankle-Image.html
+SHA1-Digest: vYllSemyJtJ1kZOBFybJUy/X2zU=
+
+Name: res/drawable/abs__list_selector_holo_light.xml
+SHA1-Digest: XUy41B7vcXdPTydfyJW2PjLbaIM=
+
+Name: assets/ContentBundle/2-Acetabulum-Acetab-Facts.html
+SHA1-Digest: YeP1pVRCMgMOr1q78XswXRs4G1Y=
+
+Name: assets/ContentBundle/2-Pelvis-Pelvis-Classify.html
+SHA1-Digest: +pWMhwEqgHTi5FTbjgx0q4cRJ88=
+
+Name: assets/ContentBundle/1-Wrist-CarpalDisloc-Treat.html
+SHA1-Digest: ruskFpgFSdO+QdknJQ3JCf+UdXI=
+
+Name: assets/ContentBundle/1-Metacarpophalangeal (MCP)-Hand-Treat.html
+SHA1-Digest: /b7G/Qe7V51xjfmI+k0ardgmJ0M=
+
+Name: res/drawable-hdpi/abs__dialog_full_holo_light.9.png
+SHA1-Digest: nPZd3bnVcn+rkhQLEbzuGQQLbls=
+
+Name: res/drawable-xhdpi/abs__list_focused_holo.9.png
+SHA1-Digest: HYmwy/+/4r9X8G6BgvaYkgKxhyc=
+
+Name: res/drawable-xhdpi/abs__progress_secondary_holo_light.9.png
+SHA1-Digest: ZPrYVnqw/XCnAcgBi982pF02PdM=
+
+Name: res/drawable-xhdpi/abs__list_pressed_holo_light.9.png
+SHA1-Digest: 6mFx7W/WZzwz8KaB8gz1FwlUflU=
+
+Name: res/layout/abs__screen_simple_overlay_action_mode.xml
+SHA1-Digest: jupE1+g/6KuGk88jKKtRS5LuCVk=
+
+Name: assets/ContentBundle/2-Ulna, olecranon-Olecranon-Treat.html
+SHA1-Digest: 3rGCYfvQ76rHU1cFyhIsGoNLSzM=
+
+Name: res/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png
+SHA1-Digest: qUXqW1NQt+ruVRmPDiWJpXWkROg=
+
+Name: res/drawable/btn_cab_done_darkblue.xml
+SHA1-Digest: dSFEoI34oNuaBPoxiLHLWTtrPXk=
+
+Name: assets/ContentBundle/2-Humerus, proximal-ProxHumerus-Treat.html
+SHA1-Digest: dSrubYYyGwtY0zBptOGixjMJm7g=
+
+Name: res/drawable/pressed_background_darkblue.xml
+SHA1-Digest: IsXI9OMEGeUCEcLEFJXQoSF8C4c=
+
+Name: res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml
+SHA1-Digest: 3HhpjqrtN2BhRTDruVPcwrBwgN0=
+
+Name: assets/ContentBundle/2-Humerus, diaphysis-Humerus-Treat.html
+SHA1-Digest: oRl2wmumX7pPlDRK9H2ZdHbkdtA=
+
+Name: res/drawable-xhdpi/abs__tab_selected_focused_holo.9.png
+SHA1-Digest: AmjEYxvpuVtaYTL71e9rnvkbedE=
+
+Name: res/drawable-hdpi/abs__textfield_search_default_holo_dark.9.png
+SHA1-Digest: Knnz6VTOCTON2Bb4zhfPnmOvd9o=
+
+Name: assets/ContentBundle/3-Credits-Credits.html
+SHA1-Digest: xq93+R6NvcwBsFS+4QygXnkS3Tg=
+
+Name: res/drawable-mdpi/btn_cab_done_pressed_darkblue.9.png
+SHA1-Digest: fRBuO0JVHitynWMe33iCjxTc5dk=
+
+Name: res/drawable-hdpi/abs__ic_go_search_api_holo_light.png
+SHA1-Digest: vP+8iDmun52JwJ35SzGze1IhkWI=
+
+Name: res/layout/comp_list_section_header.xml
+SHA1-Digest: UrolZSXgBJfOW8gXLy5hoC5BOlQ=
+
+Name: res/drawable-mdpi/abs__list_longpressed_holo.9.png
+SHA1-Digest: /uU9+qqC9MjC0cwR3L+DskCy9xM=
+
+Name: res/drawable/abs__ic_clear_holo_light.xml
+SHA1-Digest: KmoKk9mNoIRifbVz2fyoZrYGahM=
+
+Name: assets/ContentBundle/Traumapedia-Info.plist
+SHA1-Digest: UGPp9CVHt8ZZSqK3xpqmPPc9zHA=
+
+Name: assets/ContentBundle/footap.png
+SHA1-Digest: JdFiHCDI007IevZci8QRxLyxgZw=
+
+Name: res/layout/abs__action_menu_layout.xml
+SHA1-Digest: 3GWtJlIsW/MPtM21idfPEsiWPG8=
+
+Name: res/drawable-xhdpi/abs__ab_bottom_solid_light_holo.9.png
+SHA1-Digest: 98aPD0Xqx5q4D+vZs6Jb7lXg2Go=
+
+Name: res/drawable-xhdpi/abs__progress_secondary_holo_dark.9.png
+SHA1-Digest: ZPrYVnqw/XCnAcgBi982pF02PdM=
+
+Name: assets/ContentBundle/2-Femur, trochanteric-Troch-Image.html
+SHA1-Digest: XdtyejdDEbpVLn0bXH3GDJ2AgB8=
+
+Name: res/layout/sherlock_spinner_item.xml
+SHA1-Digest: keBSAD9DV5ugLL/AQihrra+RpFc=
+
+Name: res/drawable-xhdpi/abs__ic_go.png
+SHA1-Digest: M8tIyrLn23zsA2xJdKwQa2udV3k=
+
+Name: res/drawable-mdpi/tab_unselected_focused_darkblue.9.png
+SHA1-Digest: 9kvr2uix5R0f4crvuA7MfGJcPD4=
+
+Name: res/drawable-hdpi/spinner_ab_pressed_darkblue.9.png
+SHA1-Digest: 3MFT3CcCvPE7sbGdPZrMlumMygI=
+
+Name: assets/ContentBundle/1-Carpal-CarpalDisloc-Classify.html
+SHA1-Digest: c8q8KeQuN26GuwworhPBF9FZkdQ=
+
+Name: res/drawable-mdpi/abs__list_divider_holo_dark.9.png
+SHA1-Digest: stTgeZCrCJ/rcueRykiUYhtUunM=
+
+Name: assets/ContentBundle/1-Carpometacarpal (CMC)-CMCDisloc-Classify.
+ html
+SHA1-Digest: pR1NXNtm4x1j3KtnSFOctsh93gg=
+
+Name: res/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png
+SHA1-Digest: UvHnw9Thh4MmbDM+aFqQ5sWmLq4=
+
+Name: res/layout/abs__screen_simple.xml
+SHA1-Digest: m5N3GlZfLlcrzORj4hcmqjBD4Rs=
+
+Name: res/drawable-xhdpi/abs__ab_transparent_light_holo.9.png
+SHA1-Digest: PxNOG5fD+V4Mf2OzxZBveW63eh0=
+
+Name: res/drawable-xhdpi/abs__ab_bottom_transparent_dark_holo.9.png
+SHA1-Digest: nJhiu7bpctu8lefeEmofMayi/xU=
+
+Name: res/drawable-hdpi/cab_background_top_darkblue.9.png
+SHA1-Digest: 7N67bbuyryR36roqdfwj3c3VXwA=
+
+Name: assets/ContentBundle/1-Ankle-Ankle-Treat.html
+SHA1-Digest: ArQc6JoVnR/5MN8fzpStUJqwehA=
+
+Name: assets/ContentBundle/1-Subtalar-SubtalarDisloc-Treat.html
+SHA1-Digest: tvMpjZy/xRI/EI+CjuT4H3NJcqU=
+
+Name: res/drawable-xhdpi/abs__progress_primary_holo_dark.9.png
+SHA1-Digest: WH0mnOkpZltk+ZCf+fs+1c2OS68=
+
+Name: assets/ContentBundle/plateau.png
+SHA1-Digest: fS7qHAsaEfpNjtPXk72smtLj79I=
+
+Name: assets/ContentBundle/revbennett.png
+SHA1-Digest: hJkXg/euusVg8I8FCLzZVu/sm70=
+
+Name: res/drawable-mdpi/abs__ic_clear_search_api_holo_light.png
+SHA1-Digest: QAFEm0zCvZ4Xmc8sOzVOr0LSD4k=
+
+Name: assets/ContentBundle/scaphoid.png
+SHA1-Digest: W9/qoJy8vr7TNFWaVugSdg8+tUk=
+
+Name: res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png
+SHA1-Digest: /TK9H3KzeUa6V//XkexBa4dQPBQ=
+
+Name: res/color/abs__primary_text_holo_light.xml
+SHA1-Digest: vtvvd5TG9QoWxeVx6zx200hnmJE=
+
+Name: res/drawable-hdpi/abs__ab_bottom_solid_light_holo.9.png
+SHA1-Digest: d3zzB2nQ2k8nh8wt560Gg+RI/Wc=
+
+Name: assets/ContentBundle/1-Metatarsophalangeal (MTP)-Forefoot-Facts.
+ html
+SHA1-Digest: jaMMaKvjs+qiSnKeFpTw1Z8Lv5c=
+
+Name: res/drawable-mdpi/abs__ic_search_api_holo_light.png
+SHA1-Digest: XyfNd6baGKrwD/t+2U3a+XZzQyA=
+
+Name: res/drawable-land-mdpi/background_bones.9.png
+SHA1-Digest: BUauA+j/2BUFuJIprbHQ4oMKWqU=
+
+Name: res/layout/abs__action_bar_home.xml
+SHA1-Digest: gaw4ZaGC3RQzBrZM0kDF897c738=
+
+Name: assets/ContentBundle/1-Shoulder-ShoulderDisloc-Treat.html
+SHA1-Digest: Ae1RDh7loPw18S67zL16eCqNSd4=
+
+Name: assets/ContentBundle/footoblique.png
+SHA1-Digest: aUQ4cN4tS9Re4s7uPpei8tBaR0A=
+
+Name: res/drawable/translucent_item_background.xml
+SHA1-Digest: vXpwrBDk22HH57KbdVsdBK9DCvs=
+
+Name: assets/ContentBundle/2-Talus-Talus-Facts.html
+SHA1-Digest: 68AkI5i4IYPnJ9Jo9U4gn858Kfo=
+
+Name: res/layout-xlarge/abs__screen_action_bar_overlay.xml
+SHA1-Digest: Wlm2uDbj20rvJYQKoHBk4kAOjiw=
+
+Name: res/drawable-hdpi/background_bones.9.png
+SHA1-Digest: BNpe2kvLKrEncD99NYbD1sDGkEY=
+
+Name: assets/ContentBundle/mason.png
+SHA1-Digest: 2pDtPfRJ/T5HqTN+aZjgsyAK3aY=
+
+Name: resources.arsc
+SHA1-Digest: a1sjeuDATcqYZcrjqkiJpJA0ZHw=
+
+Name: assets/ContentBundle/handoblique.png
+SHA1-Digest: i+YDiSlsjV1b0uE17x3oPvjQa7o=
+
+Name: assets/ContentBundle/2-Navicular-Navicular-Facts.html
+SHA1-Digest: 9fAOuUvv+/oCSGuJaFax5GFYujA=
+
+Name: assets/ContentBundle/wristangles.png
+SHA1-Digest: LRcAlsEsTfSR/sAEX8lD5RW5XQ4=
+
+Name: res/drawable-xhdpi/abs__ab_bottom_transparent_light_holo.9.png
+SHA1-Digest: aJd1ZELtINjFvNa/Fkx7VYPZO8c=
+
+Name: assets/ContentBundle/1-Knee-KneeDisloc-Facts.html
+SHA1-Digest: UzpPYqSdthWVbWhtr5Q3IdUgnmA=
+
+Name: assets/ContentBundle/2-Ulna, olecranon-Olecranon-Classify.html
+SHA1-Digest: /gtbgCR0g6q4ETAM3uFuRKndb4A=
+
+Name: assets/ContentBundle/scapula.png
+SHA1-Digest: kl0/EivowaB4KIerdQwlKA11W50=
+
+Name: res/drawable-mdpi/abs__list_pressed_holo_light.9.png
+SHA1-Digest: ughAWBlhb5fxIgHli8NgEiGGjGY=
+
+Name: res/drawable/background.xml
+SHA1-Digest: 0nnH/sfc/N9TawZVHkzofOXtuh4=
+
+Name: res/drawable-hdpi/tab_selected_focused_darkblue.9.png
+SHA1-Digest: KqmmaAv1HQzcqZr4xvp7ifqDxkY=
+
+Name: res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png
+SHA1-Digest: FcBAGMDDJT/qPTgDgDNoqHFU12A=
+
+Name: res/drawable/abs__progress_horizontal_holo_dark.xml
+SHA1-Digest: 44sjfgM42LNqtE//ug0swO6GonA=
+
+Name: res/drawable-mdpi/abs__textfield_search_default_holo_light.9.png
+SHA1-Digest: Kr6ws1po8jgIXHRlWJhgXZIhPQ0=
+
+Name: assets/ContentBundle/2-Pilon-Pilon-Image.html
+SHA1-Digest: yM8mE1jJh7Re8Mt0ZsBJS822DK0=
+
+Name: res/drawable-mdpi/progress_bg_darkblue.9.png
+SHA1-Digest: 5dp1ZziPBR0fIweT0B3P+uMs9KE=
+
+Name: res/drawable-xhdpi/abs__spinner_ab_default_holo_dark.9.png
+SHA1-Digest: mFBsNq5f87qF5/Vc2kbr2KN5rtM=
+
+Name: res/layout/abs__action_mode_close_item.xml
+SHA1-Digest: ia3fmUuXzYuyDGDYdWzY88x2mX4=
+
+Name: assets/ContentBundle/1-Elbow-ElbowDisloc-Facts.html
+SHA1-Digest: 3z/lxE9xVSk9mbFAw9MahjKPKoY=
+
+Name: res/drawable-xhdpi/abs__menu_dropdown_panel_holo_light.9.png
+SHA1-Digest: j61yufOAhY0EEb0KKiWQt4VQ35M=
+
+Name: assets/ContentBundle/2-Femur, trochanteric-Troch-Treat.html
+SHA1-Digest: QO9saFMJHsGJjDV0Pr7yIDACvD4=
+
+Name: res/drawable-mdpi/abs__spinner_48_outer_holo.png
+SHA1-Digest: dOvKoQ3iC0/hWwcxo/fIXzxzZmM=
+
+Name: res/drawable-hdpi/abs__ic_search_api_holo_light.png
+SHA1-Digest: bMnzUJcqz/t9bTcMG8lGmcFNl+c=
+
+Name: assets/ContentBundle/2-Coronoid-ElbowDisloc-Image.html
+SHA1-Digest: 6sFSe9ba98UMT0eu+jWYZ38xtyM=
+
+Name: assets/ContentBundle/forearmota.png
+SHA1-Digest: D1VBEO2WMMzftQiSHvU1lQ/1Wpk=
+
+Name: res/drawable-xhdpi/ab_bottom_solid_darkblue.9.png
+SHA1-Digest: b6rTR5CooDY+qIG0nKua48vXgmE=
+
+Name: res/drawable-xhdpi/abs__textfield_search_default_holo_dark.9.png
+SHA1-Digest: J5SOooTw1DRH20MILK0EZAWDrbc=
+
+Name: res/drawable/progress_horizontal_darkblue.xml
+SHA1-Digest: iB57QckBlytnq+oUJ1reuHZ16vs=
+
+Name: assets/ContentBundle/2-Clavicle-Clavicle-Image.html
+SHA1-Digest: t71SWLSKhDtXswrpS881lFwa/Fo=
+
+Name: res/drawable-mdpi/abs__ic_ab_back_holo_light.png
+SHA1-Digest: M2S/kyzAD2oQ/8uslADa1LuAjW0=
+
+Name: res/drawable-hdpi/abs__tab_unselected_pressed_holo.9.png
+SHA1-Digest: TJPqye6pp5Iw3LyfyGWFUjWAkKc=
+
+Name: assets/ContentBundle/2-Acetabulum-Acetab-Treat.html
+SHA1-Digest: hurHAnuslG7Ko3D5LeYGD6AU0II=
+
+Name: res/drawable-hdpi/abs__btn_cab_done_default_holo_dark.9.png
+SHA1-Digest: c+yFO5hsNXg7USiTALjRr6BsezM=
+
+Name: res/drawable-hdpi/abs__ic_menu_share_holo_dark.png
+SHA1-Digest: SpbWnJMbZ3HRdVLZqaechE5B8lM=
+
+Name: assets/ContentBundle/disionly.png
+SHA1-Digest: lKrFT+TJ3oNrAeSorsQgxNNeoWQ=
+
+Name: res/drawable-hdpi/abs__ic_cab_done_holo_dark.png
+SHA1-Digest: t34iCishQIjbaoIrhnBAwlzZEjM=
+
+Name: res/drawable/grey_border.xml
+SHA1-Digest: 8H8tif0au3OJEaIADkqcDNsSDVY=
+
+Name: assets/ContentBundle/2-Metatarsal-Forefoot-Facts.html
+SHA1-Digest: jaMMaKvjs+qiSnKeFpTw1Z8Lv5c=
+
+Name: assets/ContentBundle/shoulderaxillary.png
+SHA1-Digest: nheLDjZsc25RMTI5eN3hWIioMoI=
+
+Name: res/drawable-xhdpi/abs__ab_solid_shadow_holo.9.png
+SHA1-Digest: aQbQp5lD1LF5j55j9S9LFN9359A=
+
+Name: res/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png
+SHA1-Digest: NMBIh/bnWT3qQP/nmyNVDeRnYIE=
+
+Name: assets/ContentBundle/bg6-1.png
+SHA1-Digest: PdUWSPGAISgbikbFCS9ZnURk60Y=
+
+Name: res/drawable-xhdpi/abs__textfield_search_selected_holo_dark.9.pn
+ g
+SHA1-Digest: qMRDp7Uax7PZUIwpp9hZ0jIK7OI=
+
+Name: assets/ContentBundle/2-Olecranon-Olecranon-Facts.html
+SHA1-Digest: 3JccWCdm3HIBJJlWMMJY08SllNs=
+
+Name: res/drawable-xhdpi/btn_cab_done_default_darkblue.9.png
+SHA1-Digest: 0VyKxPIux6tX1X+EPSqLS7Kza9k=
+
+Name: assets/ContentBundle/2-Olecranon-Olecranon-Treat.html
+SHA1-Digest: 3rGCYfvQ76rHU1cFyhIsGoNLSzM=
+
+Name: assets/ContentBundle/2-Coronoid-ElbowDisloc-Facts.html
+SHA1-Digest: Imie1NEwCCCKCQpmQbVAI6hO4j0=
+
+Name: res/drawable-hdpi/abs__ab_bottom_transparent_light_holo.9.png
+SHA1-Digest: TJtDiWDSVn6ZNgciU8o4aEYqa0s=
+
+Name: res/drawable-hdpi/abs__spinner_ab_disabled_holo_light.9.png
+SHA1-Digest: CcFYRocH7gvTLRjwpZvnLnV/ji8=
+
+Name: assets/ContentBundle/1-Ankle-Ankle-Classify.html
+SHA1-Digest: lJLoSON5fp7nnd6hC75tu9OqOnU=
+
+Name: res/drawable-xhdpi/abs__tab_selected_holo.9.png
+SHA1-Digest: 8I6CrxyEqEIidVSRbOTA56OrDPM=
+
+Name: res/drawable/abs__spinner_ab_holo_dark.xml
+SHA1-Digest: mXf8vKvswO8nt0da62hM9XlgJI8=
+
+Name: res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png
+SHA1-Digest: a0psDiPv6W6Oe9GsTr40v9t6L4g=
+
+Name: res/drawable-hdpi/abs__btn_cab_done_focused_holo_dark.9.png
+SHA1-Digest: GMCGnAiJrVwkONO7D8M+RCQHRA0=
+
+Name: assets/ContentBundle/perilunate.png
+SHA1-Digest: WfeOLTfQ7Kk+pMtEYpHRGIOmnbI=
+
+Name: assets/ContentBundle/1-Midtarsal (Chopart)-MidtarsalDisloc-Facts
+ .html
+SHA1-Digest: LzWMXsNNTidHZDWxwmTlifGxZWQ=
+
+Name: res/drawable-xhdpi/spinner_ab_pressed_darkblue.9.png
+SHA1-Digest: 0NItkHSrSIantgjwKcObbACV+qw=
+
+Name: res/drawable-hdpi/progress_secondary_darkblue.9.png
+SHA1-Digest: U9xXQEu359gNTpv72iT2fh0y7zA=
+
+Name: res/drawable/abs__progress_horizontal_holo_light.xml
+SHA1-Digest: BPrYtohFzV3gEQCyip5ViAv0Lpk=
+
+Name: res/drawable-xhdpi/abs__cab_background_bottom_holo_light.9.png
+SHA1-Digest: fa1RuiOfmCR5TUqsvGoHdqDKEMc=
+
+Name: res/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png
+SHA1-Digest: g0P9ougo3IG7j30q3NJ2uKKesEo=
+
+Name: res/drawable-xhdpi/abs__ab_share_pack_holo_light.9.png
+SHA1-Digest: 5tx+9wz0J67Nzyfu5uds995lA58=
+
+Name: res/drawable-hdpi/abs__ic_cab_done_holo_light.png
+SHA1-Digest: ISvmrlOfXbsp9lBrwReYqWtx9o0=
+
+Name: res/drawable-xhdpi/abs__cab_background_top_holo_light.9.png
+SHA1-Digest: dQOFNUKa7MYclycFOkPhZd6R4+8=
+
+Name: assets/ContentBundle/2-Pilon-Pilon-Treat.html
+SHA1-Digest: 7yjwKQmi7Rrr1L93PmMJwPka8Sc=
+
+Name: res/color/abs__primary_text_holo_dark.xml
+SHA1-Digest: ELKEqzaFn/5eJP8lTqXRznjp+BE=
+
+Name: res/drawable-xhdpi/background_bones.9.png
+SHA1-Digest: 1U0JfSqpE7ey+XBuVAI/l7Mfr78=
+
+Name: res/drawable-xhdpi/tab_unselected_focused_darkblue.9.png
+SHA1-Digest: nhBf/0477xzcGe77SnjlBSlE50s=
+
+Name: assets/ContentBundle/2-Tibia_fibula, diaphysis-TibFib-Facts.html
+SHA1-Digest: WifV2kBN7EmoirpXEZwTXU0W/EY=
+
+Name: assets/ContentBundle/femurlat.png
+SHA1-Digest: obF8azVFxRd7Sx8Y5zBw5cEU3a0=
+
+Name: res/drawable-xhdpi/abs__ab_stacked_transparent_light_holo.9.png
+SHA1-Digest: YKCakYSOTJrRo5RRzbj2ydASXLE=
+
+Name: res/drawable-mdpi/abs__textfield_search_default_holo_dark.9.png
+SHA1-Digest: NJBxkI0AkveoHvUUGxD0nWqr0bo=
+
+Name: assets/ContentBundle/2-Clavicle-Clavicle-Classify.html
+SHA1-Digest: NLz6u+gh6T3ozZU9bCwJxDWpKG0=
+
+Name: assets/ContentBundle/1-Tarsometatarsal (Lisfranc)-TMTDisloc-Fact
+ s.html
+SHA1-Digest: 4ZCnZ1hHZdUzcr0qnhvlmLxI2aU=
+
+Name: assets/ContentBundle/1-Sternoclavicular-SCDisloc-Treat.html
+SHA1-Digest: cPlXGLBBQN/r8Rll0MxCM0kzP8I=
+
+Name: assets/ContentBundle/2-Femur, head-FemurHead-Classify.html
+SHA1-Digest: h9sTPxdevbsrtKHnfAw8dpW4cag=
+
+Name: res/color/abs__primary_text_disable_only_holo_light.xml
+SHA1-Digest: pfoWWCOicH7Y/uhTXTpzOdtbfEo=
+
+Name: assets/ContentBundle/2-Scapula-Scapula-Facts.html
+SHA1-Digest: MC9jRiX5eaktsw44T1QFj9WhHcs=
+
+Name: res/drawable-xhdpi/abs__ic_menu_share_holo_dark.png
+SHA1-Digest: Pbz9ftkb5zDPfW+EkEnxZWslEXE=
+
+Name: assets/ContentBundle/scapulaap.png
+SHA1-Digest: LCjbuN11cMDl3cNRRQIBmBMTqkk=
+
+Name: assets/ContentBundle/2-Tibia, plateau-TibPlat-Treat.html
+SHA1-Digest: ikwJ9vZzMBhPJMJ8B6HUJekqLHk=
+
+Name: assets/ContentBundle/icon.png
+SHA1-Digest: g5uUoPkZ5E3E+WVFXxCY4SEnX8Y=
+
+Name: assets/ContentBundle/2-Carpus-Carpus-Image.html
+SHA1-Digest: Bjou3EFb4zon4pAXPMCLgO5rq64=
+
+Name: assets/ContentBundle/2-Humerus, distal-DistHumerus-Facts.html
+SHA1-Digest: 5/b2SzP50pOeTGuzI95YDTzGOEo=
+
+Name: res/drawable-mdpi/abs__ic_cab_done_holo_dark.png
+SHA1-Digest: bReJxscH6ASuWZVUiV0H+XMY9iw=
+
+Name: assets/ContentBundle/2-Femur, intertrochanteric-IT-Facts.html
+SHA1-Digest: gVJHy9ciMsQ7AmaE3GpefNPcHEI=
+
+Name: assets/ContentBundle/2-Femur, diaphysis-FemurShaft-Image.html
+SHA1-Digest: Rf+rVU09xes7pV3ZT6FqrRmn8nM=
+
+Name: assets/ContentBundle/1-Patellar-PatellaDisloc-Treat.html
+SHA1-Digest: fYmUk1pputbxKd8d2faoEmBuYko=
+
+Name: assets/ContentBundle/1-Acromioclavicular-ACDisloc-Facts.html
+SHA1-Digest: Pv+Z+4dnzsNlHWc/Z3Imm8WAuhg=
+
+Name: res/drawable-hdpi/tab_unselected_pressed_darkblue.9.png
+SHA1-Digest: fkm0/qFlJbcFuVN309iMfCoGhso=
+
+Name: res/drawable-hdpi/abs__btn_cab_done_default_holo_light.9.png
+SHA1-Digest: 29+Nctc4viMX8MCouLUT+8zXrko=
+
+Name: assets/ContentBundle/2-Pelvis-Pelvis-Treat.html
+SHA1-Digest: JUXgFJ8D+/YTm8OGxypUa0Tz/Hc=
+
+Name: assets/ContentBundle/2-Metatarsal-Forefoot-Classify.html
+SHA1-Digest: frdh2CnH1y0UudXRt/J/g4TwYW0=
+
+Name: assets/ContentBundle/Credits.html
+SHA1-Digest: O/rgi6drPlJZmOIuOt9f8nCh2PA=
+
+Name: res/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png
+SHA1-Digest: Z4xMacb4bX2fkIkRjYPviIm0JW8=
+
+Name: res/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png
+SHA1-Digest: DQySO68loKiGRFLNF3q9aGWnLVg=
+
+Name: res/drawable-mdpi/ab_stacked_solid_darkblue.9.png
+SHA1-Digest: 3ChOfc5kdo/N2GHJ6Esy1EIIjvI=
+
+Name: res/drawable/abs__ic_menu_moreoverflow_holo_light.xml
+SHA1-Digest: 34eFtxWPyR1K3fmi/J7+s4Z0QsM=
+
+Name: assets/ContentBundle/arcs.png
+SHA1-Digest: XvQhxuq7NVnHzulwMxF1Ycfh2L0=
+
+Name: assets/ContentBundle/humerusao.png
+SHA1-Digest: ANjZb6vq3h1aoHCQNiShc9birRE=
+
+Name: assets/ContentBundle/2-Radius, head-RadialHead-Image.html
+SHA1-Digest: rLnwM3eH6zbw4Gwqy4O6/vRO/cQ=
+
+Name: res/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png
+SHA1-Digest: PjaimoXydbnMDeuP2EzRNgtJLzQ=
+
+Name: assets/ContentBundle/2-Scapula-Scapula-Image.html
+SHA1-Digest: J2fPG/1n9fbMPma5mjCa0iD4Qt0=
+
+Name: assets/ContentBundle/kneeap.png
+SHA1-Digest: mjl2OvIHoicc8BciMRh7soJMlN8=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: inIPfp0nm1EsYjmL60RmPmI14vQ=
+
+Name: assets/ContentBundle/1-Tibiofibular, proximal-PTFJDisloc-Classif
+ y.html
+SHA1-Digest: e9H/J9jJWZbmCR7DDjH6g6ypKMo=
+
+Name: res/layout/abs__simple_dropdown_hint.xml
+SHA1-Digest: nceIOw1HzSOxGLJspM6dODpjOyI=
+
+Name: res/drawable-mdpi/abs__ic_go_search_api_holo_light.png
+SHA1-Digest: rC1xpGLbgIYBFq7uRkjdIdRR0F8=
+
+Name: assets/ContentBundle/calcangles.png
+SHA1-Digest: q0VLLBydQUZo5v8S0PwoVQIhd0U=
+
+Name: res/drawable-hdpi/abs__ic_voice_search_api_holo_light.png
+SHA1-Digest: MwVFn7g4chkw9rs0iOSThqzhxSw=
+
+Name: res/drawable-xhdpi/abs__textfield_search_selected_holo_light.9.p
+ ng
+SHA1-Digest: SOTRH+ZLBH6hlAUidIvPnY82AbM=
+
+Name: assets/ContentBundle/2-Talus-Talus-Treat.html
+SHA1-Digest: DdVn6R5T8pohPlws68+ZM4Ek/FA=
+
+Name: assets/ContentBundle/1-Patellar-PatellaDisloc-Classify.html
+SHA1-Digest: +pV+vyikf2gOcj9huSJH1NN9A/w=
+
+Name: assets/ContentBundle/2-Ulna, diaphysis-RadiusUlna-Classify.html
+SHA1-Digest: 2F+zSj2SOPtQ0rXc1GLxC2KU9a0=
+
+Name: res/layout/abs__action_bar_title_item.xml
+SHA1-Digest: gqvb+JfCJSkDU1Y0Lx1gTKoVp/k=
+
+Name: assets/ContentBundle/2-Femur, intertrochanteric-IT-Classify.html
+SHA1-Digest: Y4ze7ywUol1RbYDcRdmp6PY1hyg=
+
